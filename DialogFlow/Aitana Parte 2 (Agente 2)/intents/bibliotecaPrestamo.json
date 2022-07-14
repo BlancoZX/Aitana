@@ -1,0 +1,100 @@
+{
+  "id": "80d946db-8c6c-4362-bc6f-e45ca5d68b44",
+  "name": "bibliotecaPrestamo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "La BUA dispone de préstamo de:",
+                    "- Libros: dependiendo el colectivo al que perteneces podrás llevarte un número limitado de libro (Ej.: estudiantes de grado pueden tener hasta 8 documentos en préstamo).",
+                    "- Ordenadores portátiles: préstamo durante todo el día, sin sacarlos de la sala.",
+                    "- Atriles: préstamo durante todo el día, sin sacarlos de la sala.",
+                    "- Dispositivos ebooks: préstamo durante 14 días."
+                  ],
+                  "title": "Prestamos BUA"
+                },
+                {
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "type": "button",
+                  "text": "Consulta más información",
+                  "link": "https://biblioteca.ua.es/es/utiliza-la-biblioteca/prestamo/prestamo.html"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Además, dispone del servicio de Préstamo Interbibliotecario, para facilitar el acceso a documentos que no se encuentren en la biblioteca de la Universidad, así como facilitar a otras institucionesexternas documentos existentes en nuestra universidad."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "link": "https://biblioteca.ua.es/es/utiliza-la-biblioteca/prestamo-interbibliotecario/prestamo-interbibliotecario.html",
+                      "text": "Más información"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre la biblioteca."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

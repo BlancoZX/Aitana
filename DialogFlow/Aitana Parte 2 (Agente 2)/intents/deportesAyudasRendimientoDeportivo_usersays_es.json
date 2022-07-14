@@ -1,0 +1,72 @@
+[
+  {
+    "id": "900bbefe-5cdc-497a-8f6c-fe70f12f9581",
+    "data": [
+      {
+        "text": "Ayuda Por Rendimineto ",
+        "userDefined": false
+      },
+      {
+        "text": "Deportivo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0b32bb44-9d38-4866-b43d-3573cd86c185",
+    "data": [
+      {
+        "text": "ayudas por rendimiento ",
+        "userDefined": false
+      },
+      {
+        "text": "deportivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "29f476ce-10a0-4f29-8e81-e51fafdea055",
+    "data": [
+      {
+        "text": "Ayudas al estudiantado por rendimiento ",
+        "userDefined": false
+      },
+      {
+        "text": "deportivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "343dbab2-08ea-4b6a-8c20-4c055ec1d3f1",
+    "data": [
+      {
+        "text": "ayudas para estudiantes con un alto rendimiento ",
+        "userDefined": false
+      },
+      {
+        "text": "deportivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

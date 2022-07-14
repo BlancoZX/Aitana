@@ -1,0 +1,36 @@
+[
+  {
+    "id": "d54639e6-916a-4754-8680-8f0d6155ec6f",
+    "data": [
+      {
+        "text": "cae",
+        "userDefined": false
+      },
+      {
+        "text": " personas con discapacidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d1da86c1-2756-4837-a46e-6a3089ad8e6e",
+    "data": [
+      {
+        "text": "cae ",
+        "userDefined": false
+      },
+      {
+        "text": "observatorio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "id": "5ce26aad-c04c-459b-ba41-d9027342f977",
+  "name": "transporteAdaptado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Transporte adaptado",
+                  "text": [
+                    "El transporte adaptado es un servicio específico que, a petición propia y bajo su responsabilidad, se presta a estudiantado con movilidad reducida que cursando sus estudios en esta Universidad, necesiten un transporte alternativo, adaptado a sus necesidades, para la asistencia a las clases en el Campus de San Vicente del Raspeig.",
+                    "Para la prestación de este servicio, contamos con una furgoneta adaptada que realiza el servicio en  horario de mañana y de tarde."
+                  ]
+                },
+                {
+                  "text": "Consulta más información",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "type": "button",
+                  "link": "web.ua.es/es/cae/discapacidad-y-neae/transporte-adaptado-en-la-ua.html"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre transporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4dccd96c-ec91-43d1-a05f-fdad7ef30ed6",
+    "data": [
+      {
+        "text": "hay algun tipo de competición para los deportistas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "584a1685-1933-43d5-9f80-1810635466c3",
+    "data": [
+      {
+        "text": "competiciones deportivas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

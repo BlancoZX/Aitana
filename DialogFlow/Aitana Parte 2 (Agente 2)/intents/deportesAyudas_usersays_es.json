@@ -1,0 +1,45 @@
+[
+  {
+    "id": "7783de6c-bc81-4c10-a373-3e9940c5a781",
+    "data": [
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " ofrece algun tipo de ayuda deportiva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "afc7e331-7527-4199-93bd-4a362ea26126",
+    "data": [
+      {
+        "text": "ayudas para deportistas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3b450311-fbff-4b51-b553-372ea4de0ace",
+    "data": [
+      {
+        "text": "ayudas deportivas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

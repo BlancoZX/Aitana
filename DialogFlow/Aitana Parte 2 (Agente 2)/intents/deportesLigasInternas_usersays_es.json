@@ -1,0 +1,45 @@
+[
+  {
+    "id": "fd4b3261-914c-4a33-9f28-b11e6b8f6f41",
+    "data": [
+      {
+        "text": "ligas deportivas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2937ef77-e20f-4843-9741-412541bf9e76",
+    "data": [
+      {
+        "text": "ligas internas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "41657495-d579-49cd-9ff4-98e5871d3874",
+    "data": [
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " cuenta con algun tipo de ligas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

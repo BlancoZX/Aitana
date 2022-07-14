@@ -1,0 +1,53 @@
+[
+  {
+    "id": "5f711abf-71fd-47ea-8149-ade90ab2dfa4",
+    "data": [
+      {
+        "text": "que tipo de ofertas deportivas ofrece ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8229eadc-baf1-41dd-b0f9-675cc66c467d",
+    "data": [
+      {
+        "text": "hay algun tipo de oferta deportiva ",
+        "userDefined": false
+      },
+      {
+        "text": "en la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "caeb9655-4d3e-4294-97ef-1e8337cc7488",
+    "data": [
+      {
+        "text": "que actividades deportivas hay ",
+        "userDefined": false
+      },
+      {
+        "text": "en la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

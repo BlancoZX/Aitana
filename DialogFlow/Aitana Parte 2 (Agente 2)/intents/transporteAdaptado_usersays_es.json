@@ -1,0 +1,57 @@
+[
+  {
+    "id": "3e1cf2a7-9b7d-4fbb-b0ed-74a6337c289b",
+    "data": [
+      {
+        "text": "transporte",
+        "userDefined": false
+      },
+      {
+        "text": " para personas con dificultad de movimiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d89fb965-3599-4a65-b75e-945594d91cae",
+    "data": [
+      {
+        "text": "transporte",
+        "userDefined": false
+      },
+      {
+        "text": " adaptados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4fdb8f4b-c925-422c-99d1-553e3938449b",
+    "data": [
+      {
+        "text": "¿hay ",
+        "userDefined": false
+      },
+      {
+        "text": "transporte",
+        "userDefined": false
+      },
+      {
+        "text": " adaptado a personas con movilidad reducida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

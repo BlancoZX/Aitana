@@ -1,0 +1,52 @@
+[
+  {
+    "id": "9e78c5bb-6400-4b07-a397-fd38494b8570",
+    "data": [
+      {
+        "text": "¿que se necesita para poder utilizar ",
+        "userDefined": false
+      },
+      {
+        "text": "las bibliotecas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ee2f3f45-77c6-4100-a649-4e3f9bd7058a",
+    "data": [
+      {
+        "text": "¿que requisitos se necesitan para poder utilizar ",
+        "userDefined": false
+      },
+      {
+        "text": "las bibliotecas",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

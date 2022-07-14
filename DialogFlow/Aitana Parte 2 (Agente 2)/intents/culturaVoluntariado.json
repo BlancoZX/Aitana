@@ -1,0 +1,65 @@
+{
+  "id": "a460c7df-da4c-4fc4-b0b1-a9fa5addc721",
+  "name": "culturaVoluntariado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "El Voluntariado Cultural te ofrece la posibilidad de participar en diversas actividades propuestas porel Servicio de Cultura, dando información, resolviendo dudas, ayudando a localizar espacios o actividades, promoviendo redes sociales (Facebook, Instagram) propias del Voluntariado Cultural o las oficiales de las áreas implicadas en cultura en la UA, documentación audiovisual, etc.",
+                    "La participación en los diversos voluntariados tiene reconocimiento de créditos por curso académico, hasta un máximo de 6 créditos."
+                  ],
+                  "title": "Voluntariado Cultural"
+                },
+                {
+                  "text": "https://web.ua.es/es/voluntariado-ua/",
+                  "link": "https://web.ua.es/es/cae/voluntariado-centro-de-apoyo-al-estudiante.html",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

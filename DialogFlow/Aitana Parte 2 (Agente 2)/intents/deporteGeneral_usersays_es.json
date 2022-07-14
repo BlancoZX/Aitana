@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2c37025c-5553-4a9d-af7e-9d57d878978f",
+    "data": [
+      {
+        "text": "informacion del deporte de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "40fa05e7-27c4-4404-8479-e76f5e215d10",
+    "data": [
+      {
+        "text": "quiero información sobre deporte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

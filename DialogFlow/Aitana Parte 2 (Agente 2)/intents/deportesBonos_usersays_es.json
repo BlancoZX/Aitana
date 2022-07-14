@@ -1,0 +1,65 @@
+[
+  {
+    "id": "98732f70-e5ab-40eb-998e-32dde7d6b3f0",
+    "data": [
+      {
+        "text": "¿hay bonos ",
+        "userDefined": false
+      },
+      {
+        "text": "deportivos",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9f78400a-c9f0-4fcc-b161-1b69be4daecd",
+    "data": [
+      {
+        "text": "que tipo de bonos ",
+        "userDefined": false
+      },
+      {
+        "text": "deportivos",
+        "userDefined": false
+      },
+      {
+        "text": " ofrece ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "de3bcbc8-6538-4082-b5cd-0e9e3af34ef6",
+    "data": [
+      {
+        "text": "bonos ",
+        "userDefined": false
+      },
+      {
+        "text": "deportivos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

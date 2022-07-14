@@ -1,0 +1,62 @@
+{
+  "id": "b48b46e0-a823-4f92-92fd-9377c3786fdf",
+  "name": "caeVoluntariado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "A través del voluntariado del Centro de Apoyo al Estudiante, el alumnado ofrece su apoyo a otras y otros compañeros en actividades cotidianas y así desde la proximidad y con pequeñas acciones mejoran la calidad de vida en el entorno universitario.",
+                    "La participación en los diversos voluntariados tiene reconocimiento de créditos por curso académico, hasta un máximo de 6 créditos."
+                  ],
+                  "type": "description",
+                  "title": "CAE Voluntariado"
+                },
+                {
+                  "type": "button",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "link": "https://web.ua.es/es/cae/voluntariado-centro-de-apoyo-al-estudiante.html",
+                  "text": "Consulta más información"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

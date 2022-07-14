@@ -1,0 +1,45 @@
+[
+  {
+    "id": "3c2ec980-856f-4ad5-a795-65cc5617cda5",
+    "data": [
+      {
+        "text": "crear anuncio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "dc646612-e0e3-43d5-945f-82dd9c55d96a",
+    "data": [
+      {
+        "text": "subir anuncios a la bolsa de ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "60862f4d-2b40-4b65-b5e0-2c73ec1b0a18",
+    "data": [
+      {
+        "text": "publicar anuncios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

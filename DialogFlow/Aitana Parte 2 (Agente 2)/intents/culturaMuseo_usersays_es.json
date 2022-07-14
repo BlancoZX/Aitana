@@ -1,0 +1,61 @@
+[
+  {
+    "id": "57316b74-ac9d-49b3-811a-2bf711ac2bf2",
+    "data": [
+      {
+        "text": "mua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4632aaf0-ba75-4f60-8bfd-0b4669484712",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "la uni",
+        "userDefined": false
+      },
+      {
+        "text": " tiene ",
+        "userDefined": false
+      },
+      {
+        "text": "museo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f4454702-3438-4e0f-90ea-c2e580560692",
+    "data": [
+      {
+        "text": "museo",
+        "userDefined": false
+      },
+      {
+        "text": " univeristario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

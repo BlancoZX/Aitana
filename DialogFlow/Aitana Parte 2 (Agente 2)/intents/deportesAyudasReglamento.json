@@ -1,0 +1,69 @@
+{
+  "id": "b073b396-ea0d-413d-a0f6-b67b476d0791",
+  "name": "deportesAyudasReglamento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Reglamento",
+                  "text": [
+                    "La persona deportista universitaria que cumpla con los requisitos de cada grupo, tendrá derecho a obtener créditos de libre elección curricular.",
+                    "Además, se les tendrá en cuenta para el cambio de horario, grupos y exámenes que coincidan con su actividad deportiva.",
+                    "A estos efectos, se considera deportista universitario o universitaria, la o el incluido en la relación de Deportistas Universitarios que elabora el Secretariado de Deportes de la Universidad de Alicante.",
+                    "En esa relación se encuentra:",
+                    "- El estudiantado que represente a la universidad en competiciones universitarias u oficiales",
+                    "- Las monitoras o monitores de actividades deportivas por haber obtenido una beca de colaboración con el Servicio de Deportes."
+                  ],
+                  "type": "description"
+                },
+                {
+                  "type": "button",
+                  "link": " https://bicisanvi.es/",
+                  "text": "Consulta más información",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

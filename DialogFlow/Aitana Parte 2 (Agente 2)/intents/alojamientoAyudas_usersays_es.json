@@ -1,0 +1,74 @@
+[
+  {
+    "id": "aa74a666-4ecf-4d19-94dc-f53e41803408",
+    "data": [
+      {
+        "text": "ayuda económica para ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamientos",
+        "userDefined": false
+      },
+      {
+        "text": " estudiantiles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ec4a5e14-9ca0-4302-8ca8-90f2f681669a",
+    "data": [
+      {
+        "text": "ayudas ",
+        "userDefined": false
+      },
+      {
+        "text": "para gastos de alojamientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c4dde722-f77e-43c1-b01b-44d3b99eec4c",
+    "data": [
+      {
+        "text": "ayudas ",
+        "userDefined": false
+      },
+      {
+        "text": "para pagar alojamientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bdc60af1-c859-40c6-9ba8-34a9e41729cc",
+    "data": [
+      {
+        "text": "hay ayudas ",
+        "userDefined": false
+      },
+      {
+        "text": "para  pagar los alojamientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

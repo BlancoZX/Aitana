@@ -1,0 +1,83 @@
+{
+  "id": "e7de8391-5942-490a-a4f7-91733968866c",
+  "name": "transporteAutobus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "transporteOtrasLineas",
+          "lifespan": 1
+        },
+        {
+          "name": "transporteTam",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5b5a7839-0431-440a-88c9-50d3bcf3a3da",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Podrás acceder a la universidad en autobús, bien a través del TAM (Transporte Metropolitano de Alicante) o bien a través de otras líneas interurbanas. \n¿Qué líneas deseas consultar?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "TAM"
+                    },
+                    {
+                      "text": "Otras Líneas"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

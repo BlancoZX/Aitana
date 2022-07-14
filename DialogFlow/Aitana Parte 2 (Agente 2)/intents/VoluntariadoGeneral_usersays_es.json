@@ -1,0 +1,58 @@
+[
+  {
+    "id": "c9673e23-b67b-41ce-84c2-f825935fdfaf",
+    "data": [
+      {
+        "text": "voluntariado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3a5f08d1-d94c-4958-b45a-fdd44ef2e407",
+    "data": [
+      {
+        "text": "quiero ser voluntario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e0622e4a-b79d-4d6d-879f-f927eb32376c",
+    "data": [
+      {
+        "text": "que tipo de voluntariados hay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f04f2394-3905-4ead-b2f0-5d8fca260d77",
+    "data": [
+      {
+        "text": "voluntariado",
+        "userDefined": false
+      },
+      {
+        "text": " universiatario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

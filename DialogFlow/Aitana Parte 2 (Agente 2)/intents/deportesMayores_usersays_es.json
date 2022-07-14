@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1d1d55e0-b5ab-4d08-bf5d-b66cc656934a",
+    "data": [
+      {
+        "text": "activadas de ejercicio para mayores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ff78d7bf-89c6-4640-8fca-a4b022fb3496",
+    "data": [
+      {
+        "text": "¿hay algun tipo de programa para la realización del deporte por parte de personas mayores?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "94127553-84a0-45e9-8381-9f92937bacd2",
+    "data": [
+      {
+        "text": "deporte para personas mayores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

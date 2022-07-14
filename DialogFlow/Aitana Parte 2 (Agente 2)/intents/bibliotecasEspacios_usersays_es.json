@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ec532873-0cad-47e4-bcca-799040594fef",
+    "data": [
+      {
+        "text": "¿que sales tienes ",
+        "userDefined": false
+      },
+      {
+        "text": "las bibliotecas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c70a89b0-833a-46f2-a1d4-510aedc78a00",
+    "data": [
+      {
+        "text": "¿que espacios están disponibles ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "las bibliotecas",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "la uni",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "14d1cd7d-3ce3-48b2-a938-7fda2d9906c1",
+    "data": [
+      {
+        "text": "espacios de ",
+        "userDefined": false
+      },
+      {
+        "text": "las bibliotecas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

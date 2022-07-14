@@ -1,0 +1,49 @@
+[
+  {
+    "id": "173e19ee-b51a-446c-816a-ea5efc0aeec7",
+    "data": [
+      {
+        "text": "nueva cuenta para subir anuncios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c73c4757-24d3-4e8a-ad61-2ecabff7319d",
+    "data": [
+      {
+        "text": "registro alojamiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7769fd37-61ef-484f-81ff-7fdd107c2714",
+    "data": [
+      {
+        "text": "quiero registrarme para subir ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " anuncio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

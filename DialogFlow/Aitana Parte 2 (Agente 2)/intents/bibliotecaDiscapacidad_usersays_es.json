@@ -1,0 +1,44 @@
+[
+  {
+    "id": "5d723d29-dcca-432e-b788-df38056ae585",
+    "data": [
+      {
+        "text": "tengo movilidad reducida, ¿ ",
+        "userDefined": false
+      },
+      {
+        "text": "las bibliotecas",
+        "userDefined": false
+      },
+      {
+        "text": " me ofrecen algún tipo de facilidad?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "96290f5f-6b0d-44a5-9597-1ef4fb723d06",
+    "data": [
+      {
+        "text": "facilidades proporcionadas por ",
+        "userDefined": false
+      },
+      {
+        "text": "las bibliotecas",
+        "userDefined": false
+      },
+      {
+        "text": " para las personas con discapacidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

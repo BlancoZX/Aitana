@@ -1,0 +1,67 @@
+{
+  "id": "4f986a5f-1959-4ba0-a52c-c578cf519c9e",
+  "name": "bilbiotecas Mediateca",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La Mediateca ofrece una amplia colección de fondos audiovisuales y multimedia. Para ello dispone de soportes digitales en formatos CD, CD-ROM, DVD y Blu-Ray.\nLa temática de los fondos es amplia: cine, música, ciencia y técnica, medio ambiente, historia,\nliteratura, arte, viajes, etc."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "link": "https://biblioteca.ua.es/es/mediateca/mediateca.html",
+                      "text": "Más información"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre la biblioteca."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

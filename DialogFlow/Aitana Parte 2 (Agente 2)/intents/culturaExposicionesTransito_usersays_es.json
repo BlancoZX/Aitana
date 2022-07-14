@@ -1,0 +1,40 @@
+[
+  {
+    "id": "c3efaafe-9ff3-4e52-9d8d-b7c79d36fa1b",
+    "data": [
+      {
+        "text": "sala",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "tránsito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8251389f-3e84-4daa-a48f-314c3a2cddb4",
+    "data": [
+      {
+        "text": "exposiciones ",
+        "userDefined": false
+      },
+      {
+        "text": "transito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

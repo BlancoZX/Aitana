@@ -1,0 +1,66 @@
+{
+  "id": "b350b5a3-82be-4c7b-a606-84f2ae3e4253",
+  "name": "bibliotecasPuntBiu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "En PuntBiu encontrarás una selección de libros, revistas, mapas y planos relacionados con los viajes,el turismo, el ocio y los deportes.",
+                    "Se encuentra ubicado en la planta baja del Edificio de la Biblioteca General.",
+                    "Dispone además de prensa diaria local, nacional e internacional y una serie de revistas de carácter divulgativo y temática general, destacando las especializadas en viajes."
+                  ],
+                  "title": "PuntBiu"
+                },
+                {
+                  "link": "https://biblioteca.ua.es/es/puntbiu/puntbiu-formacion-e-informacion-a-usuarios.html",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "text": "Consulta más información",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre la biblioteca"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

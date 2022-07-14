@@ -1,0 +1,61 @@
+[
+  {
+    "id": "5d369ba7-83d4-4a77-923c-9f88126f0e96",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " ofrece alguna manera de compartir coche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "725b5afc-3455-4976-b159-515ccdb2a832",
+    "data": [
+      {
+        "text": "aplicación de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " para compartir coche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0bd1e776-dd2d-485d-8bfb-adfde70742e0",
+    "data": [
+      {
+        "text": "compartir coche para ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

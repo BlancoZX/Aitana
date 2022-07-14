@@ -1,0 +1,67 @@
+{
+  "id": "f9d86c42-b70b-4d10-9db2-a173025a8a52",
+  "name": "culturaMuseo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Museo de la Universidad de Alicante",
+                  "text": [
+                    "El Museo de la Universidad de Alicante (MUA) acoge diversas exposiciones y actividades con una doble vertiente: la promoción y difusión del arte contemporáneo y la divulgación de los resultados de investigaciones universitarias.",
+                    "Además, el MUA realiza visitas guiadas y talleres didácticos dirigidos a centros educativos adaptando sus contenidos a la formación de los grupos visitantes y lanza distintas convocatorias de creación artística a las cuales los colectivos de la Universidad de Alicante se pueden presentar.",
+                    "En el MUA encontramos diversas salas de exposiciones que se renuevan periódicamente y otras donde se realizan talleres, conferencias, proyecciones y conciertos.",
+                    "Salas: Sala Àgora, Sala Arcadi Blasco, Sala El Cub, Sala Eusebi Sempere, Sala l’Alcúdia, Sala Naia, Sala Polivalent y Sala Vilamuseu"
+                  ],
+                  "type": "description"
+                },
+                {
+                  "text": "Consulta más información",
+                  "link": "http://www.mua.ua.es/",
+                  "type": "button",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

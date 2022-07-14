@@ -1,0 +1,35 @@
+{
+  "id": "c0bacea0-4c4a-49c6-ab8d-89ba8c1f7b7c",
+  "name": "culturaGeneral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La Universidad de Alicante dispone de una amplia oferta cultural para complementar y enriquecer tu\nformación universitaria.\n¿Qué quieres saber sobre la actividad cultural en la universidad?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

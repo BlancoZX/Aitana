@@ -1,0 +1,45 @@
+{
+  "id": "622bff87-41a8-4d9a-b957-438900e523b1",
+  "name": "deportesMayores",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La actividad de Ejercicio para Mayores, es un programa de entrenamiento específico, con el objetivo\nde disminuir los efectos del envejecimiento, tanto biológicos como psicológicos y sociales.\nEste servicio se ofrece, con exclusividad y de forma gratuita, al estudiantado, PAS y PDI de la\nUniversidad de Alicante, mayores de 55 años."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

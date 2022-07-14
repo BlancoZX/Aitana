@@ -1,0 +1,66 @@
+{
+  "id": "429f4478-2a07-45aa-9066-156551c19514",
+  "name": "transporteTren",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Tren",
+                  "text": [
+                    "La línea C-3 de cercanías de Renfe, que enlaza Alicante con la población de San Vicente del Raspeig,tiene un Apeadero en la zona de expansión del Campus de la UA (a unos 600 mts. aprox. del actual Campus).",
+                    "Además, existe la posibilidad de enlazar con otras poblaciones de la provincia efectuando transbordo con la línea C-1 del mismo servicio de Cercanías.",
+                    "RENFE ofrece diferentes abonos para estudiantes de la universidad. "
+                  ]
+                },
+                {
+                  "text": "Consulta más información",
+                  "type": "button",
+                  "link": "web.ua.es/es/oia/transporte-universitario/linea-c-3-de-renfe-cercanias.html",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre transporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

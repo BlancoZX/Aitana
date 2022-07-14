@@ -1,0 +1,53 @@
+{
+  "id": "971c4767-b3d0-40fc-b622-be32e25dc65a",
+  "name": "caeAyudasEmergencia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Ayudas de Emergencia",
+                  "text": [
+                    "Las Ayudas Económicas de Emergencia tienen como objetivo atender las necesidades básicas delalumnado de la UA que se encuentre en situaciones socioeconómicas personales o familiares imprevistas, que le dificulte la continuación de sus estudios.",
+                    "Podrán solicitarse para los siguientes conceptos:",
+                    "- Menú de comedor de mediodía para los días lectivos.",
+                    "- Ayuda para transporte universitario, tanto urbano como interurbano, para la asistencia a clase y/o exámenes.",
+                    "- Material para el estudio: papelería, impresiones, fotocopias y libros.",
+                    "- Ayuda para alojamiento en período lectivo.",
+                    "- Ayuda y préstamo de material tecnológico para el seguimiento de la docencia dual.",
+                    "- Otros, para ayudas excepcionales que no estén recogidas en las anteriores modalidades y con el mismo objetivo.",
+                    "Podrán solicitarse a través de UACloud - Apoyo Estudiantes, en el plazo que se establezca en la correspondiente convocatoria anual."
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

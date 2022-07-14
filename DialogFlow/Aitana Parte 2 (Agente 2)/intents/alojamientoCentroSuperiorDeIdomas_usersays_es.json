@@ -1,0 +1,123 @@
+[
+  {
+    "id": "3237ee78-0ebe-4a32-b552-f03c9cd7aafb",
+    "data": [
+      {
+        "text": "Centro Superior de ",
+        "userDefined": false
+      },
+      {
+        "text": "Idiomas  servicios",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "99d8e108-0fd9-4d6d-8adf-4e5d55279174",
+    "data": [
+      {
+        "text": "información sobre alojamientos en el centro superior de idiomas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1f1beb79-06a7-46c3-a648-a76ed11fa231",
+    "data": [
+      {
+        "text": "el centro de idiomas",
+        "userDefined": false
+      },
+      {
+        "text": " ofrece algún tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamiento",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gratis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a7af8986-fcde-45ba-80d9-8bdbce85584a",
+    "data": [
+      {
+        "text": "el centro de idiomas",
+        "userDefined": false
+      },
+      {
+        "text": " ofrece algún tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "837c070a-719e-4233-9723-39bb5debefef",
+    "data": [
+      {
+        "text": "quiero información sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamientos",
+        "userDefined": false
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "centro",
+        "userDefined": false
+      },
+      {
+        "text": " superior de ",
+        "userDefined": false
+      },
+      {
+        "text": "idiomas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

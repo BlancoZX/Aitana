@@ -1,0 +1,40 @@
+[
+  {
+    "id": "8e89d5d9-ce71-45e8-a9e6-da62cd90fb67",
+    "data": [
+      {
+        "text": "donde puedo obtener informacion sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "el transporte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "be81b9e9-30da-448e-b2a3-627e21698250",
+    "data": [
+      {
+        "text": "información sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "el transporte",
+        "userDefined": false
+      },
+      {
+        "text": " universitario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

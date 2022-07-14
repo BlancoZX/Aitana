@@ -1,0 +1,65 @@
+{
+  "id": "95d405e7-f92e-4af8-873f-be3a4508b720",
+  "name": "deportesClubs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "La Universidad de Alicante, con el objeto de promocionar y fomentar el deporte universitario, ha favorecido un espacio de colaboración con federaciones, instituciones, clubes y entidades deportivas de su entorno, creando sinergias y compromisos mutuos que fortalezcan los proyectos en beneficio del deporte formativo, saludable y solidario, con atención especial al deporte femenino.",
+                    "Para ello, se han concretado convenios de colaboración con clubes y entidades deportivas de la provincia de Alicante."
+                  ],
+                  "title": "Clubs deportivos"
+                },
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "link": "https://web.ua.es/es/spe/clubes-vinculados.html",
+                  "type": "button",
+                  "text": "Consulta más información"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deporte"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

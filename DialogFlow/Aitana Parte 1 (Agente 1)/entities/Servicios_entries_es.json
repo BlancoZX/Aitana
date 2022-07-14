@@ -1,0 +1,30 @@
+[
+  {
+    "value": "Servicio de Información",
+    "synonyms": [
+      "Servicio de Información",
+      "servicio informacion",
+      "informacion  para el estudiante",
+      "servicio del alumnado"
+    ]
+  },
+  {
+    "value": "Tarjeta Universitaria",
+    "synonyms": [
+      "Tarjeta Universitaria",
+      "tiu",
+      "tarjeta estudiantil",
+      "tarjeta del estudiante",
+      "tarjeta universitaria"
+    ]
+  },
+  {
+    "value": "Consejo de Estudiantes",
+    "synonyms": [
+      "Consejo de Estudiantes",
+      "consejo estudiantil",
+      "comite de estudiantes",
+      "consejo de estudiantes"
+    ]
+  }
+]

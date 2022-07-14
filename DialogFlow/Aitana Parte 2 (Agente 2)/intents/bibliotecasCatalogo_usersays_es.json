@@ -1,0 +1,32 @@
+[
+  {
+    "id": "f014be9f-5942-4bd1-98d6-451d04858cb9",
+    "data": [
+      {
+        "text": "catalogo de ",
+        "userDefined": false
+      },
+      {
+        "text": "la BUA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d6b71b20-a620-4df4-8a53-6b2572b452e0",
+    "data": [
+      {
+        "text": "catalogo de las biliotecas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

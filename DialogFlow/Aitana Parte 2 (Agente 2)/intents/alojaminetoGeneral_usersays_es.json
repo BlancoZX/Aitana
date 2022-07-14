@@ -1,0 +1,45 @@
+[
+  {
+    "id": "4eaae025-ef16-4f72-9fb9-1c72760ab6af",
+    "data": [
+      {
+        "text": "quiero saber sobre alojamientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e6ef5c9b-d625-4eed-8c11-bd5b0d0e11cd",
+    "data": [
+      {
+        "text": "que tipo de información tenéis sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ae2bbd61-0772-4180-9cf9-5cadbc4deb5a",
+    "data": [
+      {
+        "text": "información sobre alojamientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

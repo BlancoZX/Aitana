@@ -1,0 +1,63 @@
+{
+  "id": "309a9270-7789-45b7-b4ba-9bf38dc86ec6",
+  "name": "deportesRunnersUA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Runners UA",
+                  "text": [
+                    "Runners UA es un programa de entrenamiento para corredores populares, con el objetivo de llevar los conocimientos científicos a la práctica deportiva.",
+                    "El programa ofrece la oportunidad de que nuestra comunidad universitaria tenga a su disposición un programa y estructura de actividad física adaptada al corredor/a con el propósito de recuperar la motivación, entrenar en grupo y disfrutar de la carrera a pie.",
+                    "Dispondrás de un entrenador cualificado y graduado en Ciencias de la Actividad Física y el Deporte, que se encargará de dirigir las sesiones de entrenamiento"
+                  ]
+                },
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "text": "Consulta más información",
+                  "type": "button",
+                  "link": "https://web.ua.es/es/spe/programas/running/runners-ua.html"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

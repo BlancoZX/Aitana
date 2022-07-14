@@ -1,0 +1,52 @@
+[
+  {
+    "id": "80f6d07b-61b9-4746-9119-fefcfb40fa49",
+    "data": [
+      {
+        "text": "información sobre tranvias que lleven a ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b46dc5d6-2bfd-40bf-a5b3-a1d4143759ca",
+    "data": [
+      {
+        "text": "¿que ",
+        "userDefined": false
+      },
+      {
+        "text": "tranvia",
+        "userDefined": false
+      },
+      {
+        "text": " lleva ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad de alicante?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

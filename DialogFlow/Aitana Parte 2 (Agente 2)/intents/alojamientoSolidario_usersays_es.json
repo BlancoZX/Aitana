@@ -1,0 +1,103 @@
+[
+  {
+    "id": "e77e779c-1d7b-444e-9f82-a719925a0b1d",
+    "data": [
+      {
+        "text": "quiero informacion sobre alojamientos gratis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b4a1a8ce-186e-46df-93e9-ec72e48433da",
+    "data": [
+      {
+        "text": "me gustaria saber si hay ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamientos",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gratis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "00999782-a670-4f11-bdec-6d360d69c248",
+    "data": [
+      {
+        "text": "Alojamiento",
+        "userDefined": false
+      },
+      {
+        "text": " solidarios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "40bc191b-26a9-42c3-9408-e3d9f982b948",
+    "data": [
+      {
+        "text": "Alojamiento",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gratis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3f80cc13-9075-4164-9f81-da1b251ef38d",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamiento",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gratis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

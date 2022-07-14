@@ -1,0 +1,35 @@
+{
+  "id": "b878dc0f-35e5-46ab-8290-10ccf7514273",
+  "name": "alojaminetoGeneral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Las opciones de alojamiento son variadas, pudiendo optar por alojarte en pisos particulares, en\nresidencias universitarias, alojamiento solidario con personas mayores o dependientes, etc.\n¿Qué quieres saber sobre alojamiento?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

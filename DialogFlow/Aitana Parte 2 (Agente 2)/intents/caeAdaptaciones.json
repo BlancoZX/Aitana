@@ -1,0 +1,35 @@
+{
+  "id": "25dc34f2-b890-422e-ae95-f4c0661af30e",
+  "name": "caeAdaptaciones",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Las adaptaciones curriculares son modificaciones o ajustes que te facilitan el acceso, permanencia y\naprovechamiento del curso que aun no siendo importantes te permitirán adquirir todas las\ncompetencias profesionales y contenidos académicos que necesitarás para ejercer como profesional.\n¿Qué necesitas saber sobre las adaptaciones curriculares?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

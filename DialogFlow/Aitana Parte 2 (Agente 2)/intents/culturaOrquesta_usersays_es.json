@@ -1,0 +1,106 @@
+[
+  {
+    "id": "01b87945-9533-4100-bd81-ed0e3c4a77b9",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " ofrece  tiene alguna ",
+        "userDefined": false
+      },
+      {
+        "text": "orquesta",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "musical",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "30928d92-80b8-40a5-98ab-24d4e37a544b",
+    "data": [
+      {
+        "text": "quiero infroamcion sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "la ofua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0ff4aefe-d7cb-447b-a9c3-f675ad5f8106",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "userDefined": false
+      },
+      {
+        "text": " ofua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c5c6cdfd-4e40-480c-87d6-d9b0b77a836a",
+    "data": [
+      {
+        "text": "Orquesta Filarmónica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de la Universidad de Alicante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "408d87d6-76b8-4b0f-803e-828c76bd887e",
+    "data": [
+      {
+        "text": "coral",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "679cfae3-b901-4eef-8308-59c6a9335c2b",
+    "data": [
+      {
+        "text": "información sobre la ",
+        "userDefined": false
+      },
+      {
+        "text": "música vocal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7474f211-65bf-45ce-9976-f0fa70914d1e",
+    "data": [
+      {
+        "text": "música vocal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "509f3033-267c-4a98-b6f6-d972ee51a33c",
+    "data": [
+      {
+        "text": "cultura",
+        "userDefined": false
+      },
+      {
+        "text": " vocal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "47956807-2c0f-468c-888f-f3d20b00364d",
+    "data": [
+      {
+        "text": "cultura",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -32,7 +32,6 @@ app.get("/",function(req,res){
 app.post("/webhook",express.json(),function(req,res){
 
     const agent = new WebhookClient({ request:req, response:res });
-
     async function  Servicios(agent){
 
       if(agent.parameters.servicios!=null)
@@ -43,7 +42,7 @@ app.post("/webhook",express.json(),function(req,res){
       await ServicioModel.findOne({"nombre":tipo_servicio}).then(async (data)=>{
 
         if(data==null)
-        agent.add("Ha ocurrido un error en el servidor")
+        agent.add("No se ha encontrado la información solicitada. Por favor reformule su pregunta.")
         else if(agent.parameters.infodeseada=="location"){
           var id = mongoose.Types.ObjectId(data.location);
           await  EdificioModel.findById(id).then((edi)=>{
@@ -154,9 +153,6 @@ app.post("/webhook",express.json(),function(req,res){
       })
      
     }
-  
-  //console.log('Dialogflow Request headers: ' + JSON.stringify(req.headers));
-  //console.log('Dialogflow Request body: ' + JSON.stringify(req.body));
  
   function welcome(agent) {
     agent.add(`Welcome to my agent!`);
@@ -167,83 +163,8 @@ app.post("/webhook",express.json(),function(req,res){
     agent.add(`I'm sorry, can you try again?`);
   }
 
-  async function  RegistrarUsuario(agent){
-    console.log('RegistrarUsuario ' + JSON.stringify(agent.parameters));
-    var user = new UserModel(agent.parameters);
-    await user.save().then((response) => {
-        
-        agent.add(`El usuario ha sido registrado`);}
-  
-      )
-      .catch((error)=> {
-        agent.add(`El usuario no ha podido ser registrado`);});
-   
-  }
-/*
-  async function  InfoMatri(agent){
-    console.log(agent.parameters.Edificios)
 
-    await EdificioModel.findOne({"nombre":agent.parameters.Edificios}).then((data)=>{
-      console.log(JSON.stringify(data))
-      if(data==null)
-      agent.add("Ha ocurrido un error en el servidor")
-      else if(agent.parameters.InfoDeseada=="location")
-      agent.add(`Las cordenadas de `+agent.parameters.Edificios+ " son "+data.location);
-      else if(agent.parameters.InfoDeseada=="telefono")
-      agent.add(`El télefono de `+agent.parameters.Edificios+ " es "+data.telefono);
-      else if(agent.parameters.InfoDeseada=="aforo")
-      agent.add(`El aforo máximo de `+agent.parameters.Edificios+ " es "+data.aforo);
-  
-    })
-   
-  }*/
 
-  async function  Edificios(agent){
-    console.log("Hola"+agent.parameters.edificios)
-
-    await EdificioModel.findOne({"nombre":agent.parameters.edificios}).then((data)=>{
-      console.log(JSON.stringify(data))
-      if(data==null)
-      agent.add("Ha ocurrido un error en el servidor")
-      else if(agent.parameters.infodeseada=="location"){
-        agent.add(agent.parameters.edificios+ " se encuentra en "+data.location+"\n");
-        
-        if(data.sigua!="")
-        agent.add("Ubicación exacta: "+data.sigua );
-
-      }
-      else if(agent.parameters.infodeseada=="telefono")
-      agent.add(`El télefono de `+agent.parameters.edificios+ " es "+data.telefono);
-      else if(agent.parameters.infodeseada=="web")
-      agent.add(`La página web de  `+agent.parameters.edificios+ " es "+data.web);
-      else if(agent.parameters.infodeseada=="email")
-      agent.add(`El correo de la`+agent.parameters.edificios+ " es "+data.email);
-      else if(agent.parameters.infodeseada=="horario")
-      agent.add(`El horario de la `+agent.parameters.edificios+ " es \n "+data.horario);
-  
-    })
-   
-  }
-
- 
-
-/*
-  async function  Alojamiento(agent){
-      if(agent.parameters.InfoAlojamiento=="solidario")
-      agent.add("Los pisos gratis son los de  Pedro y Manuel")
-      else if(agent.parameters.InfoAlojamiento=="bolsa")
-      {
-        if(agent.parameters.BolsaAlojamiento!="")
-        agent.add("No hace falta activar el contexto")
-        else{
-          agent.setContext({name:"AlojamientoBolsa",lifespan:2})
-          agent.add("Que es lo  que deseas hacer sobre los anuncios de la bolsa")
-        }
-      }
-      else
-      agent.add("La informacion ha sido encontrada correctamente de "+agent.parameters.InfoAlojamiento)
-   
-  }*/
 
   // Run the proper function handler based on the matched Dialogflow intent name
   let intentMap = new Map();
@@ -252,16 +173,6 @@ app.post("/webhook",express.json(),function(req,res){
   agent.handleRequest(intentMap);
   intentMap.set('Default Welcome Intent', welcome);
   intentMap.set('Default Fallback Intent', fallback);
-  //intentMap.set('RegistrarUsuario', RegistrarUsuario);
- // intentMap.set('Info/Matri',InfoMatri);
-
-
-
-  //intentMap.set('Alojamiento',Alojamiento);
-  //intentMap.set('AlojamientoBolsa',Alojamiento);
-  
-  // intentMap.set('your intent name here', yourFunctionHandler);
-  // intentMap.set('your intent name here', googleAssistantHandler);
 
 })
 

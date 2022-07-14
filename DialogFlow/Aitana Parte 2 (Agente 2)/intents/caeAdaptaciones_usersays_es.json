@@ -1,0 +1,57 @@
+[
+  {
+    "id": "df91899d-69f0-4730-afcf-d56b6820411e",
+    "data": [
+      {
+        "text": "necesito poder modificar mi horario de estudio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "73ed24a0-68ee-4216-a453-ae2d6961a680",
+    "data": [
+      {
+        "text": "se puede realizar algunas modificaciones ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "userDefined": false
+      },
+      {
+        "text": " plan de estudios para poder trabajar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7490ad75-a1ce-41ad-b63d-83bd50603ee1",
+    "data": [
+      {
+        "text": "que son las adaptaciones curriculares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

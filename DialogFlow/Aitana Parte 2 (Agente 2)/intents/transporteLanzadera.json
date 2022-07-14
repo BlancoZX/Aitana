@@ -1,0 +1,65 @@
+{
+  "id": "016164df-7cdd-496e-8a9c-3fab9b3e072f",
+  "name": "transporteLanzadera",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Lanzadera",
+                  "type": "description",
+                  "text": [
+                    "En estos momentos el servicio se encuentra suspendido hasta nuevo aviso.",
+                    "Las y los usuarios de la línea C-3 de cercanías de Renfe, disponen del servicio Lanzadera de la UA, que es gratuito, y consiste en autobuses lanzadera que conectan el apeadero con la zona de ampliación del campus (donde se encuentran los Servicios Técnicos de Investigación (SSTTI)) y con la Universidad en una única parada situada en el Bosque Ilustrado, en aproximadamente 5 minutos"
+                  ]
+                },
+                {
+                  "type": "button",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "text": "Consulta más información",
+                  "link": "https://web.ua.es/es/cae/asuntos-sociales/alojamiento-solidario/alojamiento-solidario.html"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre transporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

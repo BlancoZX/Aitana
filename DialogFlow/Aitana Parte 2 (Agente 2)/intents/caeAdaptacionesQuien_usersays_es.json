@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1e25d79d-22d7-4a41-9e62-feedf7a26c2b",
+    "data": [
+      {
+        "text": "quiene pueden solicitar las adaptaciones curriculares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "62904b49-d7fd-4025-b240-af7efa717b25",
+    "data": [
+      {
+        "text": "quienes pueden solicitar las adaptaciones curriculares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "928b143d-9b3d-488d-9a69-4c4fd84154f9",
+    "data": [
+      {
+        "text": "cuales son los grupos de las adaptaciones curriculares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "id": "02e1b20b-db1d-4f21-88ba-3b8d420410c2",
+  "name": "alojamientoSolidario",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "El programa de Alojamiento Solidario consiste en que personas mayores o dependientes ofrecen en su domicilio, alojamiento a estudiantes, a cambio de su compañía y colaboración en las tareas domésticas.",
+                    "El programa se encuentra desactivado para el curso 2021/2022.",
+                    "Puedes contactar con el CAE, centro que gestiona este servicio, a través de:",
+                    "- Si ya eres estudiante de la UA, a través de UACloud – Apoyo estudiantes.",
+                    "- Si aún no eres estudiante de la UA o quieres ofrecerte como alojador/a, mediante correo electrónico a cae@ua.es o por teléfono 96 590 9402. "
+                  ],
+                  "type": "description",
+                  "title": "Alojamiento Solidario"
+                },
+                {
+                  "link": "https://web.ua.es/es/cae/asuntos-sociales/alojamiento-solidario/alojamiento-solidario.html",
+                  "text": "Consulta más información",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre alojamiento."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

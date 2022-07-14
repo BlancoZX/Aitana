@@ -1,0 +1,67 @@
+{
+  "id": "91b30218-77c1-44dd-a574-2e0edf916be4",
+  "name": "culturaCoral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "La Coral de la Universidad de Alicante tiene entre sus objetivos, que la comunidad universitaria interesada en la música vocal tenga acceso a una formación pedagógica y musical específica.",
+                    "La dinámica de trabajo se basa en un ensayo semanal en el campus junto a clases específicas de formación vocal.",
+                    "Las entrevistas de acceso se realizan en octubre y están abiertas a cualquier integrante de la comunidad universitaria.",
+                    "La Coral de la UA realiza una serie de conciertos, tanto en Paraninfo como en sedes. Además, participa en los actos académicos de la universidad, en certámenes, en festivales..."
+                  ],
+                  "title": "Cultural Coral",
+                  "type": "description"
+                },
+                {
+                  "text": "Consulta más información",
+                  "link": "https://cultura.ua.es/es/aula/musica/coral-ua.html",
+                  "type": "button",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

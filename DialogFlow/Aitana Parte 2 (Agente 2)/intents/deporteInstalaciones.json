@@ -1,0 +1,114 @@
+{
+  "id": "5dc48eb6-e0f0-491b-9de3-9e84e43f416f",
+  "name": "deporteInstalaciones",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "deportesInstalacionesAireLibre",
+          "lifespan": 1
+        },
+        {
+          "name": "deportesInstalacionesPabellon",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "El campus cuenta con una completa dotación de instalaciones deportivas.",
+                    "Cualquier persona puede hacer uso de nuestras instalaciones, aunque el precio por su uso varía en función del colectivo al que pertenezca.",
+                    "Las reservas podrán hacerse de forma online o presencial, en el Pabellón Polideportivo.",
+                    "Tenemos instalaciones al aire libre y en el Pabellón Polideportivo"
+                  ],
+                  "title": "Instalaciones Deportivas",
+                  "type": "description"
+                },
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "type": "button",
+                  "text": "Consulta más información",
+                  "link": " https://bicisanvi.es/"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¿En qué instalaciones estás interesado/a?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "Aire Libre"
+                    },
+                    {
+                      "text": "Dentro del Pabellón Polideportivo"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

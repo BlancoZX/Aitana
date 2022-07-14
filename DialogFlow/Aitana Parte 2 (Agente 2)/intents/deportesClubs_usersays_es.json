@@ -1,0 +1,69 @@
+[
+  {
+    "id": "7f55c527-461c-468a-bc7b-7b3257c4d12e",
+    "data": [
+      {
+        "text": "informacion sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "los clubs deportivos",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "la uni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7dff1376-21d6-4fc7-81d7-3afe86c71f85",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "hay clubs",
+        "userDefined": false
+      },
+      {
+        "text": " para los deportistas de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "63d49f5d-9c73-46cb-80a8-4abdfce5692e",
+    "data": [
+      {
+        "text": "clubs deportivos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

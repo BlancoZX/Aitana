@@ -1,0 +1,66 @@
+{
+  "id": "6f638d66-2799-40a3-971c-618ae3b7e8fa",
+  "name": "deportesVoluntariado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "El voluntariado de deportes e inclusión te ofrece la oportunidad de colaborar con la Universidad de Alicante a través de diferentes programas y actividades vinculadas a la práctica de la actividad física y el deporte.",
+                    "Esta colaboración está orientada al apoyo en la organización de grandes eventos y jornadas deportivas; la participación en los programas de deporte adaptado e inclusivo para personas con diversidad funcional, con riesgo de exclusión social o con algún tipo de necesidad especial; colaboración y asistencia en las acciones de comunicación y retransmisiones en eventos y competiciones deportivas.",
+                    "La participación en los diversos voluntariados tiene reconocimiento de créditos por curso académico, hasta un máximo de 6 créditos"
+                  ],
+                  "title": "Voluntariado Deportivo",
+                  "type": "description"
+                },
+                {
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "type": "button",
+                  "text": "Consulta más información",
+                  "link": "https://web.ua.es/es/voluntariado-ua/"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

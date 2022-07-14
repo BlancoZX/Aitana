@@ -1,0 +1,75 @@
+{
+  "id": "7d22b2a0-7a93-40f0-b754-c47e17f0ce0d",
+  "name": "deportesMujer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Bicicletas",
+                  "text": [
+                    "El programa \u0027Mujer y Deporte\u0027 tiene como principal objetivo incrementar la participación de la mujer en las actividades deportivas.",
+                    "Actualmente, se compone de tres proyectos:",
+                    "- Jornadas “Mujer y Deporte”. Son una serie de jornadas para el fomento de la actividad deportiva femenina que se realizan en conmemoración del día Internacional de la Mujer.",
+                    "- Campaña “Con Nombre de Mujer. Deportistas UA”. Cada curso se reconoce la figura de una deportista de alto nivel, con una carrera relevante y significativa, que haya sido, o sea en la actualidad, miembro de los equipos de la Universidad de Alicante.",
+                    "- Deportistas equipos femeninos federados de la Universidad de Alicante. La Universidad de Alicante organiza y financia con especial interés sus equipos femeninos que participan en competiciones federadas"
+                  ]
+                },
+                {
+                  "type": "button",
+                  "link": "https://web.ua.es/es/spe/programas/mujer-y-deporte/mujer-y-deporte.html",
+                  "text": "Consulta más información",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

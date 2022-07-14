@@ -1,0 +1,67 @@
+{
+  "id": "3fbfe3bc-0992-4973-bd75-a2adb9ecb473",
+  "name": "culturaSalasMusica",
+  "auto": true,
+  "contexts": [
+    "culturaSalasMusica"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "El Aula de Música realiza actividades con un doble objetivo: ser un lugar de encuentro y especialización musical para toda la comunidad universitaria, y propiciar la difusión de la música por medio de conciertos dirigidos a todos los públicos.",
+                    "La labor que se desempeña es muy diversa: difusión de la actividad musical por medio de la OFUA (Orquesta Filarmónica de la Universidad de Alicante), la Coral de la Universidad de Alicante, además de talleres de formación de musical, etc"
+                  ],
+                  "title": "Sala de Música",
+                  "type": "description"
+                },
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "link": "https://cultura.ua.es/es/aula/musica/aula-de-musica.html",
+                  "text": "Consulta más información",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

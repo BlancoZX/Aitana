@@ -1,0 +1,81 @@
+{
+  "id": "588f1a4c-9d30-44e6-b01e-c4a427a94c79",
+  "name": "tranporteCompartirCoche",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La Universidad de Alicante pone en marcha una app móvil para compartir coche en tus desplazamientos diarios y promover la movilidad sostenible.\nEl uso de la aplicación será gratuito para la comunidad universitaria"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Bastará con descargarse la aplicación del enlace que aparecerá  a continuación y registrarse. Marca el código asignado para la comunidad universitaria #UA-21SA"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Registro de la aplicación",
+                      "link": "https://hoopcarpool.com/"
+                    },
+                    {
+                      "text": "Más información",
+                      "link": "https://web.ua.es/es/oia/transporte-universitario/compartir-coche.html"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre transporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

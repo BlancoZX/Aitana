@@ -1,0 +1,28 @@
+[
+  {
+    "id": "0b6cc8ea-c165-48c5-a0f5-4a280a4628be",
+    "data": [
+      {
+        "text": "TDU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "de06efba-42df-45aa-81ef-49ecd0109d7a",
+    "data": [
+      {
+        "text": "tarjeta deportiva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "54d013d1-b7a8-4fa8-9058-d98fc6a4cf29",
+    "data": [
+      {
+        "text": "¿que autobuses llevan a ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1e3dec8e-2980-45b1-b5e2-3b0c63ba003e",
+    "data": [
+      {
+        "text": "¿la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " tiene autobuses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bf67f9e5-0afe-4ab8-81b9-327f6bd431b9",
+    "data": [
+      {
+        "text": "¿como  puedo llegar a ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " utilizando el autobus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "13cf9026-e1cd-4971-ace8-efba3309702b",
+    "data": [
+      {
+        "text": "servicio de apoyo a la investigacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "be1ced7b-4a23-4821-b07d-aa502d870556",
+    "data": [
+      {
+        "text": "apoyo a la investiacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ad1c9059-dfbf-4f57-a5b9-2240b0261642",
+    "data": [
+      {
+        "text": "apoyo al personal investigador de la comunidad universitaria,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

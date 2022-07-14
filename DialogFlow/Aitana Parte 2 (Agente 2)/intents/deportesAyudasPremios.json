@@ -1,0 +1,72 @@
+{
+  "id": "757ffb86-a4d9-4e86-a975-d13092170a05",
+  "name": "deportesAyudasPremios",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "Los Premios Fundación Trinidad Alfonso están dirigidos a premiar a la y el mejor deportista de la Universidad de Alicante que compaginen la vida académica con el deporte de competición, en el marco del Proyecto UniEsport.",
+                    "Además, la Fundación Trinidad Alonso también dota otros 2 premios para la y el mejor deportista titulado de las 7 universidades valencianas que hayan finalizado sus estudios con mejores calificaciones, compaginándolos con el deporte de alto nivel"
+                  ],
+                  "title": "Premios Deportivos"
+                },
+                {
+                  "type": "button",
+                  "link": "https://competicio.ua.es/es/ayudas/premios-fundacion-trinidad-alfonso.html",
+                  "text": "Consulta más información",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

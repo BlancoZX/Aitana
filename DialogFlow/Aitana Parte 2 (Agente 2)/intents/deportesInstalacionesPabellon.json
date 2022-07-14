@@ -1,0 +1,77 @@
+{
+  "id": "549f14e7-a11a-47d3-9e9a-6e33319e12fe",
+  "name": "deportesInstalacionesPabellon",
+  "auto": true,
+  "contexts": [
+    "deportesInstalacionesPabellon"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Pabellón Deportivo",
+                  "text": [
+                    "La universidad ofrece:",
+                    "- En la pista central polideportiva: 2 canchas de baloncesto, 1 pista de fútbol sala, 1 pista de balonmano, 2 pistas de voleibol y 1 pista de hockey sala.",
+                    "- 1 rocódromo",
+                    "- 1 piscina cubierta climatizada",
+                    "- 4 pistas de squash",
+                    "- 1 gimnasio de musculación",
+                    "- 1 sala de aeróbic",
+                    "- 1 gimnasio de entrenamiento",
+                    "- 1 sala de tenis de mesa",
+                    "- 1 gimnasio para equipos",
+                    "- 1 sala de tatami-esgrima",
+                    "- Un SPA con duchas de contraste, pediluvio, sauna de vapor y sauna finlandesa."
+                  ]
+                },
+                {
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "type": "button",
+                  "text": "Consulta más información",
+                  "link": "https://sd.ua.es/es/instalaciones/instalaciones-deportivas.html"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deporte"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "5eec5b6e-e0a6-4d2f-9a03-824e2145f3fb",
+    "data": [
+      {
+        "text": "prestamos",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BUA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "76f03a3f-34b8-4701-849c-ff2067fd8a18",
+    "data": [
+      {
+        "text": "prestamos",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "materiales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "51d30842-52fb-40ae-8aa8-60dc20e5a299",
+    "data": [
+      {
+        "text": "necesito pedir prestado ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " libro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2b33bca3-5b63-45be-a8c2-1aad40005fb7",
+    "data": [
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " proporciona ",
+        "userDefined": false
+      },
+      {
+        "text": "prestamos",
+        "userDefined": false
+      },
+      {
+        "text": " de libros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "dce6d382-e66c-4018-861c-2a7f99f26532",
+    "data": [
+      {
+        "text": "servicio de ",
+        "userDefined": false
+      },
+      {
+        "text": "prestamos",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "materiales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

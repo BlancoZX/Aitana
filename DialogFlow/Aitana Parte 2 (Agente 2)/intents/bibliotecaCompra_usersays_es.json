@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1755cb9b-bcb0-4e47-945d-bb522767cedd",
+    "data": [
+      {
+        "text": "no he podido encontrar los libros que quiero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7b8799e1-92c9-40b8-9dd8-cf2c167fbb86",
+    "data": [
+      {
+        "text": "realizar pedidos de libros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9ed7555e-f0ff-400a-81d0-99266e7fd3ce",
+    "data": [
+      {
+        "text": "comprar libros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "21825e98-a728-4ce5-ac79-25918a7ede12",
+    "data": [
+      {
+        "text": "pedir material universitario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

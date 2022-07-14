@@ -1,0 +1,49 @@
+[
+  {
+    "id": "c540dc84-4d92-4e37-b061-45b0a9191dcd",
+    "data": [
+      {
+        "text": "equipos federados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "43db1832-24df-47dc-8fe3-28952a90c263",
+    "data": [
+      {
+        "text": "equipos oficiales de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "058e9c0f-b1e7-4ac6-9f30-3701134a0d70",
+    "data": [
+      {
+        "text": "equipos ",
+        "userDefined": false
+      },
+      {
+        "text": "deportivos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

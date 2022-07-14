@@ -1,0 +1,35 @@
+{
+  "id": "42ac252b-cc8d-4ea4-af46-9ee6e649cbbe",
+  "name": "caeAdaptacionesQuien",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Se distinguen dos grandes grupos:\n- El primer grupo formado por estudiantes con un grado igual a superior al 33% de discapacidad física, sensorial o psíquica, incluyendo a estudiantes Erasmus. También pertenecen a este grupo, estudiantes con necesidades específicas de apoyo educativo.\n- El segundo grupo los formarían estudiantes con altas capacidades, deportistas de élite o que representen a la UA, las víctimas de violencia de género, embarazadas o en proceso de adopción/acogimiento, estudiantes con un hijo/a menor de 3 años a su cargo o un familiar dependiente, con una jornada laboral incompatible con las clases o estudiantes en un programa de movilidad y algún caso más."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

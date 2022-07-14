@@ -1,0 +1,90 @@
+{
+  "id": "9cea0a9f-7d8f-4b5b-8832-2c9d08075c1a",
+  "name": "bibliotecasEspacios",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a34f66ed-1eca-48f4-a845-9c1e5f9a6df7",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "La Biblioteca Universitaria cuenta con:",
+                    "- Salas de trabajo en grupo",
+                    "- 3 aulas de formación/trabajo",
+                    "- Cabinas multimedia de autoservicio: para la creación y edición de contenidos audiovisuales",
+                    "- Fotocopias y escáner",
+                    "- Impresión digital (en Biblioteca General y Biblioteca de Educación)",
+                    "- Ordenadores de uso público",
+                    "- Puestos de visionado y audición",
+                    "- Sala de estudio 24 horas",
+                    "- Sala de investigadores Russell P. Sebold",
+                    "- Sala Multimedia",
+                    "- Taquillas (de uso personal o de carga de dispositivos electrónico)"
+                  ],
+                  "type": "description",
+                  "title": "Espacios de las bibliotecas"
+                },
+                {
+                  "type": "button",
+                  "text": "Consulta más información",
+                  "link": "https://biblioteca.ua.es/es/utiliza-la-biblioteca/espacios-y-equipo/espacios-y-equipos.html",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre la biblioteca."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

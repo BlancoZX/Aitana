@@ -1,0 +1,35 @@
+{
+  "id": "852e7991-d86d-41c4-9ce5-0a6c4bfc7dab",
+  "name": "alojamientoFotos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Una vez publicado tu anuncio, si quieres añadir nuevas fotos, deberás enviarlas a informacio@ua.es\npara que procedamos a su publicación."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

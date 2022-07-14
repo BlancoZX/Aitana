@@ -1,0 +1,67 @@
+{
+  "id": "0e42e359-cce5-4e7d-bfd3-c94bf581e72d",
+  "name": "culturaRevista",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La Revista Cultural de la Universidad de Alicante (VEU) es la publicación oficial del Vicerrectorado de\nCultura, Deporte y Extensión Universitaria de la UA, a través de la cual se puede seguir la actualidad\ncultural de la universidad y sus sedes.\nAdemás, informa de otras actividades de ámbito cultural a las que la universidad proporciona su\napoyo así como de la actividad deportiva más significativa."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Más información",
+                      "link": " https://veu.ua.es/"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

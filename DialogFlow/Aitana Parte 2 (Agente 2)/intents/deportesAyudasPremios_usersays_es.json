@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1a01c20e-2125-47cd-95eb-a8484d14c42f",
+    "data": [
+      {
+        "text": "premios del deporte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b599b59a-b684-45ae-a199-a87cdf48fa58",
+    "data": [
+      {
+        "text": "hay premios para los deportistas de la univeridad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

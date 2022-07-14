@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e3e653f6-64b6-41e4-9575-8925b1d58807",
+    "data": [
+      {
+        "text": "agregar fotos anuncios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "60bb941f-3480-4b2c-84c7-89791dbc3a7d",
+    "data": [
+      {
+        "text": "deseo subir nuevas fotos a mis anuncios publicados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "13f37879-1e6c-44f6-9ef3-0df60f07e484",
+    "data": [
+      {
+        "text": "añadir nuevas fotos alojamientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8947fa69-89ce-4c11-891c-5ae51a74be83",
+    "data": [
+      {
+        "text": "quiero subir nuevas fotos a mis anuncios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

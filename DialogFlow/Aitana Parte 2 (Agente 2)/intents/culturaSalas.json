@@ -1,0 +1,92 @@
+{
+  "id": "7d4daf6d-6ab1-4969-99d8-f8406e92977a",
+  "name": "culturaSalas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "culturaSalasCine",
+          "lifespan": 1
+        },
+        {
+          "name": "culturaSalasDanza",
+          "lifespan": 1
+        },
+        {
+          "name": "culturaSalasTeatro",
+          "lifespan": 1
+        },
+        {
+          "name": "culturaSalasMusica",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La Universidad de Alicante dispone de salas de Teatro, Cine, Danza y Música donde se llevan a cabo\ndiversas actividades culturales"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres saber más información sobre alguna de ellas pulsa en el botón correspondiente"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Teatro"
+                    },
+                    {
+                      "text": "Cine"
+                    },
+                    {
+                      "text": "Danza"
+                    },
+                    {
+                      "text": "Música"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

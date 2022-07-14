@@ -1,0 +1,45 @@
+[
+  {
+    "id": "952fc445-6888-4ef6-b90c-ed52236e11b4",
+    "data": [
+      {
+        "text": "Ayudas del ",
+        "userDefined": false
+      },
+      {
+        "text": "Centro de Apoyo al Estudiante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e6c19b6c-facb-4ed7-8f8e-7bc6e187430a",
+    "data": [
+      {
+        "text": "ayudas de emergencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4322575a-710c-4334-a25d-a72af0dbbbc1",
+    "data": [
+      {
+        "text": "ayudas económicas de emergencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

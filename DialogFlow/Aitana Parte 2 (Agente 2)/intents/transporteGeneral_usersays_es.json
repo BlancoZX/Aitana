@@ -1,0 +1,69 @@
+[
+  {
+    "id": "1dfe99da-8464-43b7-a707-9b9766cfb200",
+    "data": [
+      {
+        "text": "como puedo llegar ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad de alicante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e31bd980-b143-480b-9504-c326fd21869a",
+    "data": [
+      {
+        "text": "que tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "transporte",
+        "userDefined": false
+      },
+      {
+        "text": " va hacia ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1075430f-6bdc-4280-ac0f-82b1c99e835a",
+    "data": [
+      {
+        "text": "como puedo ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

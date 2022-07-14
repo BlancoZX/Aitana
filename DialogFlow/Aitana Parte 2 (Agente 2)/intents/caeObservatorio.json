@@ -1,0 +1,57 @@
+{
+  "id": "f9c42b83-d95d-43c8-82ce-85ee061339d8",
+  "name": "caeObservatorio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "A través del Centro de Apoyo al Estudiante, se desarrolla un trabajo con entidades asociativas de\npersonas con discapacidad de la provincia de Alicante, entidades públicas locales y profesionales del\námbito universitario, con el objetivo de conocer la situación de las personas con discapacidad y\nsensibilizar a la sociedad en general."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Más información",
+                      "link": "https://web.ua.es/es/cae/observatorio-para-la-igualdad-de-oportunidades.html"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

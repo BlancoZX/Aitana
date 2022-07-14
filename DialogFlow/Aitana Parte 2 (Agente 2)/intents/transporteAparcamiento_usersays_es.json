@@ -1,0 +1,32 @@
+[
+  {
+    "id": "879e0493-4f88-40bc-8fb0-ee0b5b0f7520",
+    "data": [
+      {
+        "text": "aparcamiento universitario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "de3fa777-1cd8-4775-8930-0700c2a72ac2",
+    "data": [
+      {
+        "text": "donde puedo aparcar ",
+        "userDefined": false
+      },
+      {
+        "text": "en la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

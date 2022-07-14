@@ -1,0 +1,66 @@
+{
+  "id": "1ae26cc7-27c3-4022-bb5a-98b196a58e56",
+  "name": "bibliotecaInvestigacion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "La Biblioteca ofrece apoyo al personal investigador de la comunidad universitaria, proporcionándole la información, formación y asesoramiento necesario en la elaboración de publicaciones, en sus tareas de editor de revistas científicas o en cuestiones relativas a la evaluación investigadora.",
+                    "El Servicio de Apoyo a la Investigación está ubicado en la planta baja de la Biblioteca General, detrás de la Mediateca.",
+                    "Correo de contacto apoyoinves@ua.es"
+                  ],
+                  "type": "description",
+                  "title": "Investigacion"
+                },
+                {
+                  "type": "button",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "text": "Consulta más información",
+                  "link": "https://biblioteca.ua.es/es/"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre la biblioteca."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

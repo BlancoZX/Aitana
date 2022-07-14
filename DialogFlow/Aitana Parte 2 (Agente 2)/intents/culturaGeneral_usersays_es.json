@@ -1,0 +1,40 @@
+[
+  {
+    "id": "9d8ff4bf-599b-4825-9f12-1cc701352203",
+    "data": [
+      {
+        "text": "que tipo de actividad cultural de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " hay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b1d9b3dd-b16f-4aa7-bf1b-e2184b780e65",
+    "data": [
+      {
+        "text": "que actividades culturales ofrece ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "db3b6b80-917b-40c1-831d-d375f8c4ec5d",
+    "data": [
+      {
+        "text": "contacto para las actividades culturales de ",
+        "userDefined": false
+      },
+      {
+        "text": "la uni",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f801037d-984f-479b-b7e5-09f7b7ba59eb",
+    "data": [
+      {
+        "text": "informacion sobre la ",
+        "userDefined": false
+      },
+      {
+        "text": "cultura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

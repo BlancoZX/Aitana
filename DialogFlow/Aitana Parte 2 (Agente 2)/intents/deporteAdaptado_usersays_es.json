@@ -1,0 +1,41 @@
+[
+  {
+    "id": "256e1a3a-5062-4884-920c-dcb35d267162",
+    "data": [
+      {
+        "text": "¿hay algun tipo de deporte adaptado para las personas con movilidad deportiva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fba8394b-6a0f-4efd-9bd7-e19f223b3f0c",
+    "data": [
+      {
+        "text": "deporte  para la gente con movilidad reducida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a36c5684-8740-401f-bcd4-63d2bd01f047",
+    "data": [
+      {
+        "text": "deporte adaptado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "3b1868c7-1bd7-4820-a9f4-5a47ad61bc10",
+    "data": [
+      {
+        "text": "quiero dar de baja ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "userDefined": false
+      },
+      {
+        "text": " anuncio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "924d684b-2b84-4278-93a0-4f7699d86b69",
+    "data": [
+      {
+        "text": "quiero cambiar ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "userDefined": false
+      },
+      {
+        "text": " anuncio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "433803d1-c880-4b65-be79-38eec0a6334d",
+    "data": [
+      {
+        "text": "quiero modificar ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "userDefined": false
+      },
+      {
+        "text": " anuncio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "4b177a31-fe8f-4f6c-a4b5-d47e7a86ae4a",
+    "data": [
+      {
+        "text": "hay algun tipo de beca relacionada con la ",
+        "userDefined": false
+      },
+      {
+        "text": "cultura",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1344b0f6-3e63-4b25-9dc6-20a378f895cf",
+    "data": [
+      {
+        "text": "becas de colaboracion para la ",
+        "userDefined": false
+      },
+      {
+        "text": "cultura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "770ce667-a6cc-427a-9367-a01640f3491a",
+    "data": [
+      {
+        "text": "becas de ",
+        "userDefined": false
+      },
+      {
+        "text": "cultura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Biblioteca General",
+    "synonyms": [
+      "biblioteca general",
+      "biblioteca principal",
+      "biblioteca"
+    ]
+  },
+  {
+    "value": "Biblioteca de Derecho",
+    "synonyms": [
+      "Bilbioteca de derecho",
+      "biblioteca de derecho",
+      "derecho",
+      "biblioteca derecho"
+    ]
+  },
+  {
+    "value": "Biblioteca de Geografía",
+    "synonyms": [
+      "Biblioteca de Geografía",
+      "biblioteca de geografia",
+      "biblioteca geografia",
+      "biblio geografia"
+    ]
+  },
+  {
+    "value": "Biblioteca de Economía",
+    "synonyms": [
+      "Biblioteca de Económicas",
+      "biblioteca de economia",
+      "biblioteca económica",
+      "biblioteca economica",
+      "Biblioteca de Economía"
+    ]
+  },
+  {
+    "value": "Biblioteca de Ciencias",
+    "synonyms": [
+      "Biblioteca de Ciencias",
+      "biblioteca de ciencias"
+    ]
+  },
+  {
+    "value": "Biblioteca de Educación",
+    "synonyms": [
+      "Biblioteca de Educación",
+      "biblioteca de educacion"
+    ]
+  },
+  {
+    "value": "Facultad de Ciencias de la Salud",
+    "synonyms": [
+      "Facultad de Ciencias de la Salud",
+      "facultad de ciencias de la salud",
+      "facultad de ciencias"
+    ]
+  },
+  {
+    "value": "Facultad de Filosofía y Letras",
+    "synonyms": [
+      "Facultad de Filosofía y Letras",
+      "facultad de filosofia",
+      "facultad de letras"
+    ]
+  },
+  {
+    "value": "Facultad de Derecho",
+    "synonyms": [
+      "Facultad de Derecho"
+    ]
+  },
+  {
+    "value": "Escuela Politécnica Superior",
+    "synonyms": [
+      "Escuela Politécnica Superior",
+      "escuela politecnica",
+      "escuela superior"
+    ]
+  }
+]

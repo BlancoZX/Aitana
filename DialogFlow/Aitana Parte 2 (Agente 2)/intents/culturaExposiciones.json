@@ -1,0 +1,45 @@
+{
+  "id": "2c051314-b322-49d4-aeb9-e4882dd2a51c",
+  "name": "culturaExposiciones",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Durante todo el curso, y dentro del propio campus, podrás visitar exposiciones de artes plásticas, pintura, fotografía, cartelismo, humor gráfico, escultura e instalaciones.\nLa mayoría de estas exposiciones se reparten entre el Museo de la Universidad de Alicante, la Sala Aifos y la Sala Trànsito.\nAdemás, la Universidad de Alicante cuenta con el Programa de Exposiciones Itinerantes que permite la cesión temporal de material para realizar exposiciones en diferentes localidades"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

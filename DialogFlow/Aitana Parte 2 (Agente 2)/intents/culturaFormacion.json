@@ -1,0 +1,67 @@
+{
+  "id": "d0069d16-bcf0-480c-a671-d5fa46d389fb",
+  "name": "culturaFormacion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Formaciones culturales",
+                  "text": [
+                    "El Servicio de Cultura ofrece:",
+                    "- Talleres Culturales: son propuestas de desarrollo cultural y artístico centradas en varias materias, como por ejemplo fotografía, teatro, cine y escritura.",
+                    "- Cursos y clases magistrales de cultura: oferta de una serie de cursos intensivos especializados y de clases magistrales vinculados a las Aulas de Teatro, Danza y Música de la UA.",
+                    "Esta oferta formativa está destinada a la comunidad universitaria y a la ciudadanía en general."
+                  ],
+                  "type": "description"
+                },
+                {
+                  "link": "https://cultura.ua.es/es/talleres/2021-22/2/talleres-culturales-ua-segundo-cuatrimestre-2021-22.html",
+                  "type": "button",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "text": "Consulta más información"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "728490e4-e66a-4e67-8fef-49b3770a70eb",
+  "name": "deportesBonosTarjetaDeportiva",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "La Tarjeta Deportiva Universitaria (TDU) permite un amplio uso de las instalaciones deportivas durante su periodo de vigencia.",
+                    "Puede solicitarla cualquier persona, ya sea alumnado universitario, otros colectivos universitarios o cualquier otra persona sin vinculación con la UA.",
+                    "Dependiendo del colectivo al que se pertenece, el coste de la TDU es diferente.",
+                    "Puedes solicitarla de forma online o presencial, en el Pabellón Polideportivo."
+                  ],
+                  "title": "Tarjeta Deportiva",
+                  "type": "description"
+                },
+                {
+                  "text": "Consulta más información",
+                  "type": "button",
+                  "link": "https://sd.ua.es/es/abonos/tarjeta-deportiva-universitaria-tdu.html",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

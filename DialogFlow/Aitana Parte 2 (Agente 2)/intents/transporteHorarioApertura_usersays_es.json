@@ -1,0 +1,85 @@
+[
+  {
+    "id": "73804de0-b7c9-4053-a4dc-d162ceb80901",
+    "data": [
+      {
+        "text": "cuando abre al ",
+        "userDefined": false
+      },
+      {
+        "text": "uni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "83caee64-aaf2-4e0b-89ef-743671a2ebb0",
+    "data": [
+      {
+        "text": "¿cual ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " el horario de apertura de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fc69d43e-e203-4ce0-8442-3fe6398a5c4d",
+    "data": [
+      {
+        "text": "¿a que ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "userDefined": false
+      },
+      {
+        "text": " abre ",
+        "userDefined": false
+      },
+      {
+        "text": "el campus",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

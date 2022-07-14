@@ -1,0 +1,53 @@
+[
+  {
+    "id": "2ac8f554-6600-4767-9949-faf683f470b4",
+    "data": [
+      {
+        "text": "información sobre las ofertas culturales de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7bd8bd28-82b7-46b5-9818-12a4fde78d8b",
+    "data": [
+      {
+        "text": "servicios",
+        "userDefined": false
+      },
+      {
+        "text": " culturales de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0f773454-0797-4b0a-aac0-4129cc1e2102",
+    "data": [
+      {
+        "text": "formacion cultural",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

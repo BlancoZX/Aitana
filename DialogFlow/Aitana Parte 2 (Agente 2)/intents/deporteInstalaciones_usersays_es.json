@@ -1,0 +1,53 @@
+[
+  {
+    "id": "648a2b1d-7aa4-4ad1-a47d-f85684fcccdd",
+    "data": [
+      {
+        "text": "instalaciones deportivas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c08086bf-ada4-48f7-940e-2c86c146698c",
+    "data": [
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " tiene algun tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "instalaciones deportivas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7bcee4bf-b376-4b42-bcd6-a798378ffe07",
+    "data": [
+      {
+        "text": "instalaciones deportivas del ",
+        "userDefined": false
+      },
+      {
+        "text": "campus universitario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

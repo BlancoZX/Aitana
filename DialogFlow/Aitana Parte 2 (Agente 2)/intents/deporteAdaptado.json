@@ -1,0 +1,55 @@
+{
+  "id": "bf225e9d-8c57-4762-9a63-705e3a9d57c4",
+  "name": "deporteAdaptado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El Servicio de Deportes viene trabajando sobre el proyecto de “inclusión deportiva”, que pretende\nampliar su programa de actividad física dirigida y de escuelas con diferentes modalidades de deportes\nadaptados e inclusivos: baloncesto adaptado en silla de ruedas, natación inclusiva..."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Este deporte está dirigido a aquellas personas que presentan diversidad funcional de la comunidad\neducativa de la UA (PAS, PDI y alumnado), además de otras asociaciones."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deport"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

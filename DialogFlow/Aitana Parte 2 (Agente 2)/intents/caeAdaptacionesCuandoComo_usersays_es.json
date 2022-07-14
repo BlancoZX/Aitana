@@ -1,0 +1,58 @@
+[
+  {
+    "id": "fb882f9c-d0bf-42a9-b7dd-be38d12e0dd5",
+    "data": [
+      {
+        "text": "cuando puedo solicitar las adaptaciones curriculares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "822c98c8-0a9b-4be6-8cf2-0cf4519f4004",
+    "data": [
+      {
+        "text": "cuando se solicitan las adaptaciones curriculares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0d6c22b8-adc2-4c7a-b7a9-77b5fd3871c7",
+    "data": [
+      {
+        "text": "como",
+        "userDefined": false
+      },
+      {
+        "text": " s se  solicitan las adaptaciones curriculares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9b8b5d7d-3197-4873-9bed-c3ed63ade538",
+    "data": [
+      {
+        "text": "plazoz para solicitar las adaptaciones curriculares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "91f91ad0-dcd4-4ec0-ae61-f6dad56a5979",
+    "data": [
+      {
+        "text": "alojamientos de residencias",
+        "userDefined": false
+      },
+      {
+        "text": " universitarias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5e74ab12-d8f9-48cf-9221-b0743ca7ef8a",
+    "data": [
+      {
+        "text": "las residencias universitarias",
+        "userDefined": false
+      },
+      {
+        "text": " ofrecen ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  }
+]

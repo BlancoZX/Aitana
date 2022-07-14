@@ -1,0 +1,87 @@
+{
+  "id": "96cba055-dac2-447a-8e47-17d1156a82e3",
+  "name": "deportesInstalacionesAireLibre",
+  "auto": true,
+  "contexts": [
+    "deportesInstalacionesAireLibre"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "deportesInstalacionesAireLibre",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "La universidad ofrece:",
+                    "- 3 pistas de tenis",
+                    "- 1 pista de baloncesto",
+                    "- 1 campo de hockey de hierba artificial",
+                    "- 1 campo de rugby/fútbol de hierba artificial",
+                    "- 1 pista de atletismo",
+                    "- 1 pista polideportiva semicubierta (fútbol sala, baloncesto, balonmano y hockey sala)",
+                    "- 3 pistas de pádel",
+                    "- 1 pista de vóley playa",
+                    "- 1 circuito natural de unos 700 metros con aparatos de gimnasia (situado en el Bosque Ilustrado)"
+                  ],
+                  "title": "Instalaciones al Aire Libre"
+                },
+                {
+                  "type": "button",
+                  "text": "Consulta más información",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "link": "https://sd.ua.es/es/instalaciones/instalaciones-deportivas.html"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deporte"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

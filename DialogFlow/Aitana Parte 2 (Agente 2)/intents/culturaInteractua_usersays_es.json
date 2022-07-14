@@ -1,0 +1,36 @@
+[
+  {
+    "id": "aa4679bd-4c6e-489e-a357-ea93bc55201a",
+    "data": [
+      {
+        "text": "InteractUA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ffe9eba3-ec78-49ec-970a-2bd05ca9dd67",
+    "data": [
+      {
+        "text": "¿que ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " interactua?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

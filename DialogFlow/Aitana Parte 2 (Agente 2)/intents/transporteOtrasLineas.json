@@ -1,0 +1,68 @@
+{
+  "id": "dad1d772-e70d-441e-b539-a5db698a7679",
+  "name": "transporteOtrasLineas",
+  "auto": true,
+  "contexts": [
+    "transporteOtrasLineas"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "Los servicios de transporte universitario en autobús desde otras poblaciones están gestionados por asociaciones de estudiantes, ayuntamientos o empresas de transporte.",
+                    "Normalmente, sólo prestan servicio en periodo lectivo.",
+                    "Además, algunas poblaciones disponen de líneas regulares con destino o parada intermedia en la Universidad."
+                  ],
+                  "title": "Otras Líneas"
+                },
+                {
+                  "text": "Consulta más información",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "type": "button",
+                  "link": "https://web.ua.es/es/oia/transporte-universitario/lineas-interurbanas.html"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre transporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "4f384dac-1622-4fb8-9422-44fc94617833",
+  "name": "deportesAcademia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "La Academia UA nace como un programa de desarrollo del talento deportivo para estudiantes de la ESO y Bachillerato, con el objetivo de que puedan hacer uso de las instalaciones deportivas de la Universidad de Alicante.",
+                    "Para pertenecer al programa, las y los deportistas deben formar parte de un club que tenga convenio al efecto con la UA o pertenecer a la propia Sección Deportiva de la UA."
+                  ],
+                  "type": "description",
+                  "title": "Academia Deportiva"
+                },
+                {
+                  "link": "https://web.ua.es/es/spe/programas/academia-ua.html",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "text": "Consulta más información",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre el deporte"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

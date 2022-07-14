@@ -1,0 +1,66 @@
+{
+  "id": "3cfe5eff-183a-454d-b6a2-616ea8bef8a5",
+  "name": "bibliotecaDeposito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Depósito",
+                  "text": [
+                    "El Depósito cuenta con un fondo multidisciplinar compuesto por libros, diarios oficiales, tesis, prensa, revistas, DVDs y CD ROMs que se considera de menor uso, o que por sus características de conservación no deben estar en acceso libre.",
+                    "Los fondos, identificados con la signatura DP, están a disposición del usuario a través del servicio de consulta y préstamo proporcionado por el personal del Depósito.",
+                    "El Depósito se ubica en el sótano del edificio de la Biblioteca General"
+                  ],
+                  "type": "description"
+                },
+                {
+                  "link": "https://biblioteca.ua.es/es/deposito/deposito.html",
+                  "text": "Consulta más información",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre la biblioteca."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

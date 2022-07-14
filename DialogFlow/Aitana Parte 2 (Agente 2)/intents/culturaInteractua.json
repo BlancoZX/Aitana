@@ -1,0 +1,67 @@
+{
+  "id": "36777c5c-b85c-42ff-ab58-b8d074f824eb",
+  "name": "culturaInteractua",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "InteractUA es una plataforma dirigida a estudiantes con inquietudes e intereses en música, audiovisual, fotografía, escultura, poesía, literatura, pintura, videoarte.\nPodrá participar el alumnado matriculado en estudios oficiales de la UA, de forma individual o colectiva.\nEn caso de ser una propuesta con más de un o una integrante, al menos uno de los miembros deber estar matriculado en estudios oficiales de la UA."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Más información",
+                      "link": "https://cultura.ua.es/es/interactua/"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

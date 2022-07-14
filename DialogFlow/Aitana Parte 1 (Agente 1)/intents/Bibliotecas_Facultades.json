@@ -1,0 +1,75 @@
+{
+  "id": "37c622ce-182a-49b0-8d71-38f381fe5863",
+  "name": "Bibliotecas/Facultades",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2a9e6897-7d63-4313-8850-dd9dd0e5b0f8",
+          "name": "infodeseada",
+          "required": true,
+          "dataType": "@InfoDeseada",
+          "value": "$infodeseada",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Que tipo de información desea ? (Teléfono , ubicación ,correo ,página web o horario"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "32be97f1-7734-4456-8a66-77e878ec79d4",
+          "name": "edificios",
+          "required": true,
+          "dataType": "@Bibliotecas-Facultades",
+          "value": "$edificios",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor puede volver a indicar el nombre del edificio o servicio"
+            },
+            {
+              "lang": "es",
+              "value": "No se ha podido detectar el nombre del edificio  o servicio deseado"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

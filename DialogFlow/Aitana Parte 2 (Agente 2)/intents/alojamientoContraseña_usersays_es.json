@@ -1,0 +1,52 @@
+[
+  {
+    "id": "a5427fcd-2f6c-4543-be3c-b07e29a21c50",
+    "data": [
+      {
+        "text": "olvide la contraseña de ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "userDefined": false
+      },
+      {
+        "text": " cuenta de  anuncios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4d0d489b-b04f-475f-b137-ebe7d0ba669f",
+    "data": [
+      {
+        "text": "olivide ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "userDefined": false
+      },
+      {
+        "text": " contraseña que utilice para crear ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " anuncio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "b79bf22c-bc16-464d-9ea7-ac2831a792ae",
+    "data": [
+      {
+        "text": "prestación de ",
+        "userDefined": false
+      },
+      {
+        "text": "materiales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f9f0ca59-2e38-4948-be68-31028b2fb581",
+    "data": [
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " cuanta con algún ",
+        "userDefined": false
+      },
+      {
+        "text": "deposito de libros",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f1171f37-5e8d-4ef0-84d0-728ad3e83683",
+    "data": [
+      {
+        "text": "deposito universitario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

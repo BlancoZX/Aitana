@@ -1,0 +1,82 @@
+[
+  {
+    "id": "6cacdb64-31c4-46ec-a3a5-6665b51c9fee",
+    "data": [
+      {
+        "text": "puntos de carga para coches electricos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "205bd5d3-d078-41a2-84f4-eb6e28d438be",
+    "data": [
+      {
+        "text": "puntos de recarga",
+        "userDefined": false
+      },
+      {
+        "text": " de vehículos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c96e5e77-ed0b-4a93-a5dc-51de056753d4",
+    "data": [
+      {
+        "text": "¿hay ",
+        "userDefined": false
+      },
+      {
+        "text": "puntos de carga",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en la universidad",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e27566a8-8e6b-476f-a8d6-cd9a2a5c3bf2",
+    "data": [
+      {
+        "text": "¿donde puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "cargar mi coche eléctrico",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

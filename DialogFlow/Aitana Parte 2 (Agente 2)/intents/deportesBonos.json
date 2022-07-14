@@ -1,0 +1,35 @@
+{
+  "id": "e2786e14-694e-413e-912d-5a1dbc50f8ac",
+  "name": "deportesBonos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si utilizas habitualmente nuestras instalaciones deportivas, el Servicio de Deportes te recomienda:\n- Tarjeta Deportiva Universitaria (TDU)\n- Abono piscina\n- Bono por usos\n¿Sobre cuál deseas saber más información?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "a59cf53f-ac52-438f-bd2f-63fa67b55fad",
+  "name": "transporteBicicletas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Bicicletas",
+                  "text": [
+                    "Bicisanvi es un sistema de préstamo gratuito de bicicletas promovido por la Agencia Valenciana de Energía y el Ayuntamiento de San Vicente del Raspeig.",
+                    "El préstamo/devolución de las bicicletas se lleva a cabo en la Biblioteca General de la Universidad de Alicante y en diferentes puntos de San Vicente del Raspeig.",
+                    "Para poder participar en el programa Bicisanvi hay que registrarse"
+                  ]
+                },
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "link": " https://bicisanvi.es/",
+                  "type": "button",
+                  "text": "Consulta más información"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre transporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

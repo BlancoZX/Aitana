@@ -1,0 +1,36 @@
+[
+  {
+    "id": "c995b082-2a01-4aba-82d7-fb10e6d01279",
+    "data": [
+      {
+        "text": "asesoramiento",
+        "userDefined": false
+      },
+      {
+        "text": " social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "721b385d-0f40-4a7d-871a-98b8eab3054d",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "asesoramiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

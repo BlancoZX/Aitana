@@ -1,0 +1,83 @@
+{
+  "id": "b6821c2f-bd19-4c4f-8f24-2f57db525787",
+  "name": "transporteTAM",
+  "auto": true,
+  "contexts": [
+    "transporteTam"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6825b305-dfa9-43b3-bcad-d92b3695cf69",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "El Transporte Metropolitano de Alicante (TAM) comprende las líneas de autobús urbanas de Alicante ciudad y las interurbanas entre Alicante y El Campello, San Juan de Alicante, San Vicente y Muchamiel.",
+                    "El servicio lo realiza el grupo Vectalia SuBus a través de las empresas que lo integran.",
+                    "Puedes consultar la información sobre las líneas con conexión a la universidad en"
+                  ],
+                  "type": "description",
+                  "title": "TAM"
+                },
+                {
+                  "text": "Consulta más información",
+                  "type": "button",
+                  "link": "https://web.ua.es/es/oia/transporte-universitario/lineas-urbanas.html",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre transporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

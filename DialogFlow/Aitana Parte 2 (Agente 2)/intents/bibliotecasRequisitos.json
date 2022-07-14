@@ -1,0 +1,59 @@
+{
+  "id": "7320410f-c033-4378-9958-a0a9efebc24c",
+  "name": "bibliotecasRequisitos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "Para usar los servicios que la Biblioteca ofrece únicamente a toda la Comunidad Universitaria,necesitas la Tarjeta de Identificación Universitaria (TIU) y en su defecto cualquier documento oficial (DNI, carnet de conducir, pasaporte, NIE o carnet de identidad de tu país si perteneces a la UE).",
+                    "Para hacer uso de los servicios de Apertura extraordinaria será necesaria la siguiente acreditación como persona usuaria:",
+                    "● TIU: para el personal perteneciente a la Comunidad Universitaria de la UA.",
+                    "● Tarjeta Identificativa de su universidad: para estudiantes de otras universidades.",
+                    "● Carnet de Usuario Externo Temporal junto con el DNI: para personal avalado o perteneciente a colectivos que tienen establecido un convenio con la biblioteca de la Universidad deAlicante. Este carnet puede solicitarse en PuntBIU"
+                  ],
+                  "title": "Requisitos"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre la biblioteca."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

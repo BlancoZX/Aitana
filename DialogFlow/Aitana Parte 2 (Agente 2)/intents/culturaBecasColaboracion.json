@@ -1,0 +1,80 @@
+{
+  "id": "300527c4-e7ee-4fd6-a8ff-aeee5a1ca21c",
+  "name": "culturaBecasColaboracion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "64c4738c-a401-4a81-8e16-134c4c5ca3f1",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Beca de colaboración cultural",
+                  "type": "description",
+                  "text": [
+                    "Anualmente, se convocan becas para colaborar con las actividades del Museo de la Universidad de Alicante.",
+                    "El alumnado seleccionado desempeñará tareas de acompañamiento y guía de los grupos de visitantes, apoyo en talleres didácticos y otras relacionadas con la programación del Museo, pudiendo participar en algunas de las actividades culturales que se desarrollen desde el propio Servicio de Cultura"
+                  ]
+                },
+                {
+                  "type": "button",
+                  "text": "Consulta más información",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "link": "https://cultura.ua.es/es/becas-colaboracion/convocatorias-becas-colaboracion-actividades-culturales.html"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

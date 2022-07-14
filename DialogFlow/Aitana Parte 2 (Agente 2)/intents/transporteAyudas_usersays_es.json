@@ -1,0 +1,78 @@
+[
+  {
+    "id": "dda4ce68-d918-43e2-8f2d-7b4cf265c1c2",
+    "data": [
+      {
+        "text": "ayudas para el desplazamiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "365f595e-2e5a-489b-8968-73398394a399",
+    "data": [
+      {
+        "text": "becas para ",
+        "userDefined": false
+      },
+      {
+        "text": "el transporte",
+        "userDefined": false
+      },
+      {
+        "text": " universitario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a56031a5-6e56-4d07-aff9-65aac001ddfa",
+    "data": [
+      {
+        "text": "ayuda para ",
+        "userDefined": false
+      },
+      {
+        "text": "el transporte",
+        "userDefined": false
+      },
+      {
+        "text": " universitario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ca1839a0-e65c-432f-bcfd-a5f21c96ca95",
+    "data": [
+      {
+        "text": "¿hay algún tipo de ayuda para ",
+        "userDefined": false
+      },
+      {
+        "text": "el transporte",
+        "userDefined": false
+      },
+      {
+        "text": " universitario?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

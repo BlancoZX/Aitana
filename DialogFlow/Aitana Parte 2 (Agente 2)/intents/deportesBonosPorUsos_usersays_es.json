@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ed543e09-cac4-49d8-97cb-648b2eaa9660",
+    "data": [
+      {
+        "text": "bonos utilizables",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "045d53f6-cfd3-4c68-9563-fc3f2e032947",
+    "data": [
+      {
+        "text": "bonos por usos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

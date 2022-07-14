@@ -1,0 +1,32 @@
+[
+  {
+    "id": "5955eae4-1738-483b-8d95-a0cd1ae11b6b",
+    "data": [
+      {
+        "text": "sala",
+        "userDefined": false
+      },
+      {
+        "text": " de aifos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4d135bb5-67ec-4fda-8935-476845290d72",
+    "data": [
+      {
+        "text": "exposiones aifos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

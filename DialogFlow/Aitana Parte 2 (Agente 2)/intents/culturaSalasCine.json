@@ -1,0 +1,69 @@
+{
+  "id": "fd58018f-d276-4e50-bbe1-78acefdf1c39",
+  "name": "culturaSalasCine",
+  "auto": true,
+  "contexts": [
+    "culturaSalasCine"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "El Aula de Cine y Audiovisual de la Universidad de Alicante, en su voluntad de extender la cultura cinematográfica, organiza actividades que incluyen ciclos de películas (tanto en el campus como en las distintas Sedes y Aulas universitarias), conferencias, seminarios, etc.",
+                    "También dispone de una selecta biblioteca.",
+                    "El Aula prestará especial atención a la accesibilidad de la cultura audiovisual a personas con déficit visual o auditivo, así como a la traducción interlingüística de las producciones audiovisuales.",
+                    "Otras actividades del Aula: noticias, ciclos y críticas de cine, boletín de noticias, filmoteca, cursos, revista \u0027Quaderns de Cinema\u0027, etc."
+                  ],
+                  "title": "Sala de cine",
+                  "type": "description"
+                },
+                {
+                  "link": "https://cultura.ua.es/es/aula/cine/aula-de-cine-y-audiovisual.html",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "text": "Consulta más información",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "daab8bbd-1b56-4805-94f3-bdbf2d6de5b8",
+  "name": "transporteGeneral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La Universidad de Alicante tiene buena accesibilidad, ya sea en coche, autobús, tren de cercanías,\ntranvía o bicicleta.\n¿Qué quieres saber sobre el transporte?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

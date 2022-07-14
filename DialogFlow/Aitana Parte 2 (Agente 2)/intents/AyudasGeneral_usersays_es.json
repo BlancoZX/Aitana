@@ -1,0 +1,49 @@
+[
+  {
+    "id": "91d51b6c-404e-4486-be56-c0780b91b934",
+    "data": [
+      {
+        "text": "informacion sobre ayudas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "51e473c1-2db0-4a98-ae7e-74c4a789a599",
+    "data": [
+      {
+        "text": "¿que ayudas ofrece ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " para los estudiantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1cc485d4-4a3b-4c94-a8d3-bb73cd0520fb",
+    "data": [
+      {
+        "text": "¿que tipo de ayudas hay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

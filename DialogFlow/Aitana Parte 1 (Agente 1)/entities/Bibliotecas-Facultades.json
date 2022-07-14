@@ -1,0 +1,9 @@
+{
+  "id": "32e1a2dd-48b2-4852-a231-dbba681d97d5",
+  "name": "Bibliotecas-Facultades",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

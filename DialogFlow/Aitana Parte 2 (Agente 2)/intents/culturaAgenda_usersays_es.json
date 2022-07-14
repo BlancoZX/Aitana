@@ -1,0 +1,45 @@
+[
+  {
+    "id": "7f83f348-f157-4378-9f11-6d2e914d2c80",
+    "data": [
+      {
+        "text": "informacion sobre acua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3dc5a419-096c-4881-a8ea-700bd9550d75",
+    "data": [
+      {
+        "text": "quiero informacion sobre la agenda cultural ",
+        "userDefined": false
+      },
+      {
+        "text": "de la universidad de alicante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "def03f4f-e963-4ec9-87db-20d7e7e3ae34",
+    "data": [
+      {
+        "text": "agenda cultural",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

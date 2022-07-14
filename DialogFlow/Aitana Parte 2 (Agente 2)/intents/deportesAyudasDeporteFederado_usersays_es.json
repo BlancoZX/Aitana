@@ -1,0 +1,28 @@
+[
+  {
+    "id": "365cfc48-1bc2-425b-845b-cee024d0dfb2",
+    "data": [
+      {
+        "text": "ayudas  para deporte federado universitario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1f92160a-532c-4f0c-883d-8e82b387933f",
+    "data": [
+      {
+        "text": "ayudas deporte federado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

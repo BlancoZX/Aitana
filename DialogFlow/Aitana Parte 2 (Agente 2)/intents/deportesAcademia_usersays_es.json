@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ffbad557-3d92-4c34-afab-89a4efe69da9",
+    "data": [
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " tiene alguna ",
+        "userDefined": false
+      },
+      {
+        "text": "academia",
+        "userDefined": false
+      },
+      {
+        "text": " para entrenar deportistas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fa0ac080-c41a-4685-bbb3-4894d09a5431",
+    "data": [
+      {
+        "text": "academia",
+        "userDefined": false
+      },
+      {
+        "text": " para deportistas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6c12e472-b93b-4a6c-a5cb-025b4cffe210",
+    "data": [
+      {
+        "text": "academia deportiva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

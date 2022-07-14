@@ -1,0 +1,64 @@
+{
+  "id": "3d801a11-6fec-4b42-9878-ddbbabc759e7",
+  "name": "alojamientoResidenciaUniversitaria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Residencias Universitarias",
+                  "text": [
+                    "Existe una amplia oferta de Residencias Universitarias cercanas a la Universidad de Alicante, en las que el estudiantado podrá alojarse."
+                  ]
+                },
+                {
+                  "text": "Consulta más información",
+                  "link": "https://web.ua.es/es/oia/alojamientos/residencias-universitarias-y-complejos-residenciales.html",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre alojamiento."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

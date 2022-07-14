@@ -1,0 +1,65 @@
+{
+  "id": "104da05f-6317-471f-bdad-418933137a41",
+  "name": "caeAsesoramiento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "El CAE ofrece diversos servicios de asesoramiento:",
+                    "- Asesoramiento Sexológico: para problemas ligados a la esfera sexual o de pareja.",
+                    "- Asesoramiento Social: este recurso proporciona al estudiantado información, asesoramiento, orientación técnica, y mediación, con el fin de poner a su alcance todos los recursos sociales que la Universidad de Alicante como otras entidades públicas o privadas pudieran ofrecer.",
+                    "- Asesoramiento Psicológico: ante las dificultades relacionadas con el rendimiento académico o de carácter general, el CAE te ofrece una respuesta completa con actuaciones individuales o de grupo. También presta asesoramiento a estudiantes con altas capacidades intelectuales.",
+                    "Si necesitas cualquiera de ellos, solicita una cita a través de UACloud - Apoyo a Estudiantes."
+                  ],
+                  "title": "CAE Asesoramiento"
+                },
+                {
+                  "type": "button",
+                  "text": "Consulta más información",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "link": "https://web.ua.es/es/cae/centro-de-apoyo-al-estudiante.html"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

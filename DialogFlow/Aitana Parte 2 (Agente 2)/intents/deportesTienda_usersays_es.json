@@ -1,0 +1,32 @@
+[
+  {
+    "id": "69f6a11f-61c7-4fc3-a0fa-a885180ec1b3",
+    "data": [
+      {
+        "text": "tienda",
+        "userDefined": false
+      },
+      {
+        "text": " deportiva universitaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2845896b-52c8-409b-a3d2-ae64b73e159b",
+    "data": [
+      {
+        "text": "tienda de deportes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

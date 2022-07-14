@@ -1,0 +1,65 @@
+{
+  "id": "5041b143-3543-418c-8ed0-01a4f6548c12",
+  "name": "bibliotecaRUA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "RUA",
+                  "type": "description",
+                  "text": [
+                    "El Repositorio Institucional de la Universidad de Alicante (RUA) ofrece acceso abierto al textocompleto en formato digital de los documentos generados por los miembros de la Universidad de Alicante en su labor de docencia e investigación.",
+                    "RUA recoge todo tipo de materiales digitales, tanto preprints como postprints, comunicaciones a congresos, documentos de trabajo, materiales docentes y objetos de aprendizaje, revistas editadas por la Universidad de Alicante, así como documentos y materiales resultantes de la actividad institucional realizada por sus centros, unidades y servicios."
+                  ]
+                },
+                {
+                  "text": "Consulta más información",
+                  "link": "https://rua.ua.es/dspace/?locale\u003des",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre la biblioteca."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

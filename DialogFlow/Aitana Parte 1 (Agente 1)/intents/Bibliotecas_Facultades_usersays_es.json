@@ -1,0 +1,246 @@
+[
+  {
+    "id": "e6ba68e7-4fe6-4b5e-9d0b-4c924eb66cfe",
+    "data": [
+      {
+        "text": "informacion de contacto",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "biblioteca de derecho",
+        "meta": "@Bibliotecas-Facultades",
+        "alias": "edificios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "67b7601e-bd4a-4e93-bab6-3b718ea6958b",
+    "data": [
+      {
+        "text": "telefono",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "biblioteca general",
+        "meta": "@Bibliotecas-Facultades",
+        "alias": "edificios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bb02e411-8bb6-4990-ba4a-c620f200228b",
+    "data": [
+      {
+        "text": "cual es la ",
+        "userDefined": false
+      },
+      {
+        "text": "pagina web",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "biblioteca de educacion",
+        "meta": "@Bibliotecas-Facultades",
+        "alias": "edificios",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fe899e4c-2620-440a-adba-1ac286093582",
+    "data": [
+      {
+        "text": "cual es el ",
+        "userDefined": false
+      },
+      {
+        "text": "horario",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "biblioteca de ciencias",
+        "meta": "@Bibliotecas-Facultades",
+        "alias": "edificios",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "38372531-309d-4c4f-b552-5885928291fb",
+    "data": [
+      {
+        "text": "quiero saber ",
+        "userDefined": false
+      },
+      {
+        "text": "la ubicación",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "biblioteca general",
+        "meta": "@Bibliotecas-Facultades",
+        "alias": "edificios",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ea53aa70-7be4-48b3-9f26-08517402737c",
+    "data": [
+      {
+        "text": "cual es el ",
+        "userDefined": false
+      },
+      {
+        "text": "correo",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "biblioteca de derecho",
+        "meta": "@Bibliotecas-Facultades",
+        "alias": "edificios",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a4504896-06d4-4129-ad3e-967ca875ec71",
+    "data": [
+      {
+        "text": "donde esta",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "biblioteca economica",
+        "meta": "@Bibliotecas-Facultades",
+        "alias": "edificios",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7352e067-898f-49a6-a4a6-af353a4c14ed",
+    "data": [
+      {
+        "text": "cual es ",
+        "userDefined": false
+      },
+      {
+        "text": "el numero",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "la biblioteca general",
+        "meta": "@Bibliotecas-Facultades",
+        "alias": "edificios",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

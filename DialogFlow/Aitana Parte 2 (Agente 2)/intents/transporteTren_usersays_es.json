@@ -1,0 +1,77 @@
+[
+  {
+    "id": "d964e6d9-19b9-41ae-8b72-d07973d28498",
+    "data": [
+      {
+        "text": "tren",
+        "userDefined": false
+      },
+      {
+        "text": " con destino ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad de alicante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f0f38255-49f1-42cc-93a8-51ff18d4e78a",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "la renfe",
+        "userDefined": false
+      },
+      {
+        "text": " lleva a ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d2a9c62f-99a6-4709-9243-5546b32f2e1c",
+    "data": [
+      {
+        "text": "¿que ",
+        "userDefined": false
+      },
+      {
+        "text": "tren",
+        "userDefined": false
+      },
+      {
+        "text": " lleva a ",
+        "userDefined": false
+      },
+      {
+        "text": "la uni?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

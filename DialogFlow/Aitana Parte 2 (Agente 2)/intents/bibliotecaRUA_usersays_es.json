@@ -1,0 +1,32 @@
+[
+  {
+    "id": "894448c2-469c-4105-a9c0-4df6c9312ee8",
+    "data": [
+      {
+        "text": "Repositorio Institucional ",
+        "userDefined": false
+      },
+      {
+        "text": "de la Universidad de Alicante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "63f7d99e-c306-45f7-aee1-6210bf5ebf58",
+    "data": [
+      {
+        "text": "que es el RUA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

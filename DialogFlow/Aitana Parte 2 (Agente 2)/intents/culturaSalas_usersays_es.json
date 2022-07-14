@@ -1,0 +1,52 @@
+[
+  {
+    "id": "f1abbbb6-0f80-47ab-b9c5-acb84baf3418",
+    "data": [
+      {
+        "text": "que tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "salas",
+        "userDefined": false
+      },
+      {
+        "text": " ofrece ",
+        "userDefined": false
+      },
+      {
+        "text": "la uni",
+        "userDefined": false
+      },
+      {
+        "text": " relacionadas con la ",
+        "userDefined": false
+      },
+      {
+        "text": "cultura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5d1e68fe-8054-44fc-889b-1e6790dc4ac7",
+    "data": [
+      {
+        "text": "salas",
+        "userDefined": false
+      },
+      {
+        "text": " culturales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

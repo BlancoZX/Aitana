@@ -1,0 +1,66 @@
+{
+  "id": "30006f18-6aac-4d36-9fc8-75b0d63af223",
+  "name": "alojamientoCentroSuperiorDeIdomas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "El Centro Superior de Idiomas ofrece un servicio de alojamiento dirigido principalmente a estudiantes internacionales.",
+                    "Las opciones de alojamiento disponibles son: pisos compartidos, familias y residencias universitarias.",
+                    "También facilitan otras opciones de alojamiento (estudios, pisos, hoteles) a profesorado/visitantes internacionales en la Universidad de Alicante."
+                  ],
+                  "type": "description",
+                  "title": "Centro superior de idiomas"
+                },
+                {
+                  "text": "Consulta más información",
+                  "link": "www.csidiomas.ua.es/es/servicios/alojamiento",
+                  "type": "button",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre alojamiento."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

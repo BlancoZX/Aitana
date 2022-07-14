@@ -1,0 +1,40 @@
+[
+  {
+    "id": "6f645ac4-d166-40c1-9b51-f7aa0d53e465",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "CAE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0fc1aac2-a910-4325-8bbe-1753e4a087b4",
+    "data": [
+      {
+        "text": "Centro de Apoyo al Estudiante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

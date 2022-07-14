@@ -1,0 +1,49 @@
+[
+  {
+    "id": "3bb967a3-130b-4693-a11a-16639ba7dc99",
+    "data": [
+      {
+        "text": "programa para el apoyo de la mujer en el ambito ",
+        "userDefined": false
+      },
+      {
+        "text": "deportivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "171ebf42-7068-48d9-99a0-fddbeb3f10f6",
+    "data": [
+      {
+        "text": "programa para el apoyo de la mujer en el carácter ",
+        "userDefined": false
+      },
+      {
+        "text": "deportivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6b217cbf-aae6-4c87-ac25-7794c547d536",
+    "data": [
+      {
+        "text": "mujer y el deporte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

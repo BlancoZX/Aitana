@@ -1,0 +1,62 @@
+{
+  "id": "f0b9ac04-ec64-4f88-b38e-317c83e72ab8",
+  "name": "VoluntariadoGeneral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si deseas ofrecerte como voluntario, la universidad cuenta con muchos tipos de voluntariado. \nPor favor selecciona una de las siguientes opciones;:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Voluntariado Cultural"
+                    },
+                    {
+                      "text": "Voluntariado Deportivo"
+                    },
+                    {
+                      "text": "Voluntariado del Centro de Apoyo al Estudiante"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

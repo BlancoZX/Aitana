@@ -1,0 +1,97 @@
+{
+  "id": "10338a68-d2ec-4eb7-a0e7-05cb2b229680",
+  "name": "deportesAyudas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "La Universidad de Alicante desarrolla diversos programas para ayudar a sus deportistas:",
+                    "- Ayudas al estudiantado por rendimiento deportivo",
+                    "- Ayudas al deporte federado universitario de alto nivel",
+                    "- Premios Fundación Trinidad Alfonso",
+                    "- Reglamento para la Promoción y Apoyo al Deportista Universitario/a (reconocimiento de créditos).",
+                    "Si desea más información, seleccione el tipo de ayuda deseada."
+                  ],
+                  "title": "Ayudas Deportivas"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "Ayuda Por Rendimineto Deportivo"
+                    },
+                    {
+                      "text": "Ayuda Deporte Federados"
+                    },
+                    {
+                      "text": "Premios Fundación Trinidad Alfonso"
+                    },
+                    {
+                      "text": "Ayuda por Reglamento"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si la repuesta es no, puedes seguir preguntándome sobre el deporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

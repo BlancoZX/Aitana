@@ -1,0 +1,57 @@
+[
+  {
+    "id": "19ccd8e7-a2a9-4c22-94c8-95a4a33609c4",
+    "data": [
+      {
+        "text": "reglamento para los deportistas  universitarios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6cbac4fd-7980-4348-b19f-c8faafaa2abb",
+    "data": [
+      {
+        "text": "reglas de los diferentes ",
+        "userDefined": false
+      },
+      {
+        "text": "deportes",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "19fdcb01-b732-4ce9-b93c-6205a480daaa",
+    "data": [
+      {
+        "text": "reglamento ",
+        "userDefined": false
+      },
+      {
+        "text": "deportivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

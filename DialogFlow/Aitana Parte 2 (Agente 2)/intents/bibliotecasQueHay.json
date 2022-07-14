@@ -1,0 +1,74 @@
+{
+  "id": "92e9f9ff-becf-4e3c-b0b2-fd5194600297",
+  "name": "bibliotecasQueHay",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Bibliotecas Disponibles",
+                  "type": "description",
+                  "text": [
+                    "Contamos con 7 bibliotecas distribuidas en su mayoría dentro del Campus Universitario.",
+                    "Bibliotecas:",
+                    "- Filosofía y Letras (ubicada en la 1ª y 2ª planta del edificio de la Biblioteca General)",
+                    "- Politécnica y Ciencias de la Salud (ubicada en la planta baja del edificio de la BibliotecaGeneral)",
+                    "- Económicas (ubicada en la Facultad de Ciencias Económicas y Empresariales)",
+                    "- Derecho (ubicada en la Facultad de Derecho)",
+                    "- Ciencias (ubicada en la Facultad de Ciencias, Fase II)",
+                    "- Geografía (ubicada en el edificio de Institutos Universitarios)",
+                    "- Educación (ubicada en la 2ª planta de la Facultad de Educación)",
+                    "Todas ellas cuentan con puestos de lectura y ordenadores de uso público.",
+                    "También disponemos de una sala de estudios 24 horas (ubicada en la planta baja de la Biblioteca General) y otra en el Edificio San Fernando (C/ San Fernando, 40 Alicante)."
+                  ]
+                },
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "text": "Consulta más información",
+                  "type": "button",
+                  "link": "https://biblioteca.ua.es/es/bibliotecas-y-otras-colecciones.html"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre la biblioteca."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

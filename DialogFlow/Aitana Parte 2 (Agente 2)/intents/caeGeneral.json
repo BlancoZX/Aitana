@@ -1,0 +1,35 @@
+{
+  "id": "36f98812-1e74-4f81-9e8a-63ec31366bd7",
+  "name": "caeGeneral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El Centro de Apoyo al Estudiante (CAE) es un servicio que da respuesta a una amplia gama de\nnecesidades que inciden directa o indirectamente en la vida académica del estudiantado.\n¿Qué necesitas saber?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

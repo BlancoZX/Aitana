@@ -1,0 +1,162 @@
+[
+  {
+    "id": "b851e142-36ec-4761-ab4e-fd96950ecea6",
+    "data": [
+      {
+        "text": "donde",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " puedo obtener informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bdc56892-d979-4158-a099-85c1ebf2cbf4",
+    "data": [
+      {
+        "text": "cual ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "horario",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " pata obtener la ",
+        "userDefined": false
+      },
+      {
+        "text": "tarjeta universitaria",
+        "meta": "@Servicios",
+        "alias": "servicios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "414d97cb-d757-41d3-9967-d00f177ad897",
+    "data": [
+      {
+        "text": "pagina web",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " para obtener la ",
+        "userDefined": false
+      },
+      {
+        "text": "tiu",
+        "meta": "@Servicios",
+        "alias": "servicios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "04bcab13-eca6-4def-b4f7-cdf1327df093",
+    "data": [
+      {
+        "text": "donde",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " puedo obtener la ",
+        "userDefined": false
+      },
+      {
+        "text": "tiu",
+        "meta": "@Servicios",
+        "alias": "servicios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "840f57c7-8bba-4a24-919b-f626f0aaf45c",
+    "data": [
+      {
+        "text": "cual ",
+        "userDefined": false
+      },
+      {
+        "text": "el numero",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "consejo estudiantil",
+        "meta": "@Servicios",
+        "alias": "servicios",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e7cfe139-60d7-4729-95a1-3d8ca4295517",
+    "data": [
+      {
+        "text": "donde esta",
+        "meta": "@InfoDeseada",
+        "alias": "infodeseada",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "servicio de informacion",
+        "meta": "@Servicios",
+        "alias": "servicios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

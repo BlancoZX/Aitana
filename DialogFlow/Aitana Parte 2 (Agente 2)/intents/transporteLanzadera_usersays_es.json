@@ -1,0 +1,45 @@
+[
+  {
+    "id": "b8b646b6-e74a-46d8-9d61-aec3e8619ce6",
+    "data": [
+      {
+        "text": "transporte",
+        "userDefined": false
+      },
+      {
+        "text": " lanzadera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "41477314-8ace-4199-8890-519e007ddd67",
+    "data": [
+      {
+        "text": "quiero información sobre las lanzaderas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e3ac96cb-5dca-44d7-8b6e-b3cf89f1cd6b",
+    "data": [
+      {
+        "text": "lanzadera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

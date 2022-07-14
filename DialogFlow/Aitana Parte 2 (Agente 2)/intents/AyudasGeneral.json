@@ -1,0 +1,62 @@
+{
+  "id": "eff0d317-39e7-401f-9dfa-323b763d3761",
+  "name": "AyudasGeneral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La universidad cuenta con una gran cantidad de diferentes ayudas. Por favor, seleccione el tipo de ayuda deseado."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Ayudas del Centro de Apoyo al Estudiante"
+                    },
+                    {
+                      "text": "Ayudas para el tranòsrte universitario"
+                    },
+                    {
+                      "text": "Ayudas para los deportistas"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

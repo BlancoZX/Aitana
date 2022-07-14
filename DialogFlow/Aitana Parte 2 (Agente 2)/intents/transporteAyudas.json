@@ -1,0 +1,57 @@
+{
+  "id": "651c9ff7-3a0c-4781-aabf-6b780a84219d",
+  "name": "transporteAyudas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Ayudas para el transporte",
+                  "type": "description",
+                  "text": [
+                    "Anualmente, la Conselleria en materia de educación convoca ayudas al transporte universitario, consistentes en subvenciones a los servicios de transporte ya constituidos o que se constituyan, con el fin de trasladar a estudiantes desde sus poblaciones a los centros universitarios donde cursen sus estudios.",
+                    "Podrán solicitar estas ayudas los ayuntamientos, las asociaciones de estudiantes universitarios, las cooperativas de consumidores y usuarios cuyo objeto sea el transporte universitario y, subsidiariamente (y para aquellas rutas donde no concurran alguno de éstos), las empresas de transporte público regular permanente de uso general.",
+                    "Además, conviene consultar con la empresa que presta el servicio, la posibilidad de otros descuentos como bonos"
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre transporte."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

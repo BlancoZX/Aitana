@@ -1,0 +1,68 @@
+[
+  {
+    "id": "f9d8e73c-54dd-4ea9-abb9-ad4a6a0ac51f",
+    "data": [
+      {
+        "text": "a que ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "userDefined": false
+      },
+      {
+        "text": " abren ",
+        "userDefined": false
+      },
+      {
+        "text": "las bibliotecas",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "la uni",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "12021ed4-bec0-4fb0-91c0-98410432287c",
+    "data": [
+      {
+        "text": "cual ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " el horario de ",
+        "userDefined": false
+      },
+      {
+        "text": "las bibliotecas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

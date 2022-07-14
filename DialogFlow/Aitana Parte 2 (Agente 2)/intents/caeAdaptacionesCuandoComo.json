@@ -1,0 +1,57 @@
+{
+  "id": "d458ae39-5039-401c-bb6d-b379bfbaa998",
+  "name": "caeAdaptacionesCuandoComo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El plazo general para solicitar las adaptaciones se establece durante las dos primeras semanas del comienzo del curso o del semestre, aunque queda abierto excepcionalmente el plazo para solicitudes por situaciones sobrevenidas.Se tramitarán a través de la plataforma UAcloud - Apoyo Estudiantes"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "Más información",
+                      "link": "https://web.ua.es/es/cae/adaptaciones-curriculares/reglamento-de-adaptacion-curricular-de-la-universidad-de-alicante.html"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

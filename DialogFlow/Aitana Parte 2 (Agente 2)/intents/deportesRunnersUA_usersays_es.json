@@ -1,0 +1,36 @@
+[
+  {
+    "id": "fc1fc5c2-e629-43a7-8e2c-b73a0345f71a",
+    "data": [
+      {
+        "text": "runners ",
+        "userDefined": false
+      },
+      {
+        "text": "ua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2c0c575e-06c7-452d-9d5d-bd214b741de1",
+    "data": [
+      {
+        "text": "¿hay algun programa de entrenamiento para ",
+        "userDefined": false
+      },
+      {
+        "text": "correderos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

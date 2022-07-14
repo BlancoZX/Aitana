@@ -1,0 +1,83 @@
+{
+  "id": "c6bd8994-86f7-4605-91bc-bbc6840e4430",
+  "name": "culturaSalasDanza",
+  "auto": true,
+  "contexts": [
+    "culturaSalasDanza"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d8371fa3-8084-4c60-85bf-19f2f6eec3c8",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Sala de Danza",
+                  "type": "description",
+                  "text": [
+                    "Por cuestiones sobrevenidas, el Aula de Danza para el curso 2021/22 queda suspendida. Se están buscando alternativas con el fin de poder volver a ofrecerla lo más pronto posible.",
+                    "El Aula de Danza tiene como objetivo esencial aproximar a la comunidad universitaria, la danza y sus variantes, mediante la formación (talleres de diferentes estilos y técnicas), la promoción de montajes y la participación en espectáculos dirigidos a todos los públicos.",
+                    "La Universidad de Alicante ofrece a entidades públicas que estén interesadas la posibilidad de solicitar una actuación del Aula de Danza"
+                  ]
+                },
+                {
+                  "type": "button",
+                  "text": "Consulta más información",
+                  "link": "https://cultura.ua.es/es/aula/danza/aula-de-danza.html",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

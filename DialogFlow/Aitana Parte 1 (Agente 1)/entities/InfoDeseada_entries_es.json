@@ -1,0 +1,53 @@
+[
+  {
+    "value": "telefono",
+    "synonyms": [
+      "telefono",
+      "télefono",
+      "movil",
+      "telefono de contacto",
+      "teléfono de contacto",
+      "el numero",
+      "el telefono",
+      "el número",
+      "número",
+      "llamar",
+      "contacto"
+    ]
+  },
+  {
+    "value": "location",
+    "synonyms": [
+      "donde esta",
+      "cual es el lugar",
+      "donde se encuentra",
+      "la ubicacion",
+      "ubicacion"
+    ]
+  },
+  {
+    "value": "email",
+    "synonyms": [
+      "email",
+      "correo",
+      "información de contacto"
+    ]
+  },
+  {
+    "value": "horario",
+    "synonyms": [
+      "horario"
+    ]
+  },
+  {
+    "value": "web",
+    "synonyms": [
+      "web",
+      "pagina web",
+      "página web",
+      "url",
+      "direccion web",
+      "informacion"
+    ]
+  }
+]

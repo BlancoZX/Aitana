@@ -1,0 +1,82 @@
+{
+  "id": "593da7ff-e705-4672-aa02-4ac3cd35f316",
+  "name": "alojamientoBolsa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "La bolsa de alojamiento recoge ofertas de viviendas ofrecidas por particulares.",
+                    "Puedes consultar la oferta de viviendas en "
+                  ],
+                  "type": "description",
+                  "title": "Bolsa"
+                },
+                {
+                  "text": "Ofertas de viviendas",
+                  "type": "button",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "link": "https://cvnet.cpd.ua.es/Alojamiento"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "También podrás consultarla a través de las aplicaciones descargables en App Store (UAlojamiento),Google Play (UAapps Alojamiento) y Windows Store (UAapps Alojamiento)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre alojamiento"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

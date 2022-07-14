@@ -1,0 +1,68 @@
+{
+  "id": "32ac2ce7-4647-4a10-9b80-b9a3f0eebe3b",
+  "name": "culturaSalasTeatro",
+  "auto": true,
+  "contexts": [
+    "culturaSalasTeatro"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "El aula de Teatro de la Universidad de Alicante tiene como objetivo esencial conseguir que todos los colectivos universitarios (alumnado, PDI y PAS) puedan profundizar en la temática de la práctica escénica mediante actividades formativas (talleres de diversa índole) y la concreción de montajes teatrales.",
+                    "En el aula se desarrollan tres tipos de producciones: teatro clásico, teatro contemporáneo y teatro sénior (dirigido al alumnado de la UPUA).",
+                    "La Universidad de Alicante ofrece a entidades públicas que estén interesadas la posibilidad de solicitar las obras de teatro que estén en activo"
+                  ],
+                  "title": "Sala Teatro"
+                },
+                {
+                  "text": "Consulta más información",
+                  "link": "https://cultura.ua.es/es/aula/teatro/aula-de-teatro.html",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

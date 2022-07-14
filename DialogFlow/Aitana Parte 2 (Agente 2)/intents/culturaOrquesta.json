@@ -1,0 +1,67 @@
+{
+  "id": "70a7a406-a988-4948-83be-990c03cb0a63",
+  "name": "culturaOrquesta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La Orquesta Filarmónica de la Universidad de Alicante (OFUA) se creó en noviembre de 2005 y está\nintegrada por alrededor de 50 personas.\nLa OFUA lleva a cabo una importante labor formativa para sus miembros, y constituye el medio de\nencuentro entre el estudiantado universitario y los distintos conservatorios de la provincia.\nDurante el mes de octubre se convocan pruebas de acceso para nuevos integrantes."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "link": "https://cultura.ua.es/es/orquesta-filarmonica-ua/",
+                      "text": "Más información"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre cultura en la UA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

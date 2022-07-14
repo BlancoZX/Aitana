@@ -1,0 +1,70 @@
+[
+  {
+    "id": "d0452200-76fb-4931-b097-6b9648221181",
+    "data": [
+      {
+        "text": "bicicletas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e9ce284d-425e-4eac-9b76-fa96a20cca54",
+    "data": [
+      {
+        "text": "bicisanvi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2b83abfd-2040-4a6e-9af9-509fa5b2c7c6",
+    "data": [
+      {
+        "text": "transporte",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "bici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3d5e174e-8e3f-4bf8-a8ad-ab7523b9c69d",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "userDefined": false
+      },
+      {
+        "text": " ofrece bicicletas para el tranporte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "id": "c0d368de-d31a-410b-ad3f-74678cab3b4e",
+  "name": "bibliotecasCatalogo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Catálogo BUA",
+                  "text": [
+                    "En el Catálogo de la BUA podrás:",
+                    "- Conocer la disponibilidad y localización de los documentos.",
+                    "- Acceder a tu ficha de usuario/a, ver y renovar tus préstamos y realizar reservas.",
+                    "- Consultar la colección impresa y electrónica de la Biblioteca (libros, revistas, tesis, artículos, videos, etc.)",
+                    "- Acceder al texto completo de un gran número de documentos.",
+                    "- Generar citas y exportar los resultados a gestores bibliográficos o enviarlos por correo electrónico."
+                  ]
+                },
+                {
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "link": "https://cat.biblioteca.ua.es/discovery/search?vid\u003d34CVA_UA:VU1\u0026amp;lang\u003des",
+                  "type": "button",
+                  "text": "Consulta más información"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si quieres puedes seguir preguntándome sobre la biblioteca."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
